@@ -1,11 +1,12 @@
 "use client";
 import { useEffect, useState } from "react";
-import type { Mushroom } from "@prisma/client";
+import type { Mushroom } from "@/lib/mushroom-types";
 import Link from "next/link";
 import { ArrowUpRight, Trophy } from "lucide-react";
 import { useLearning } from "./provider";
 import { levels } from "@/lib/constants";
 import { MushroomCard } from "./catalog";
+import { mushrooms } from "@/lib/static-catalog";
 import { Button } from "./ui/button";
 export function ProgressPage() {
   const { progress, user, ready, guestCount, importGuest } = useLearning();
@@ -13,14 +14,7 @@ export function ProgressPage() {
       (Mushroom & { lookalikes: { similarId: string }[] })[]
     >([]),
     [error, setError] = useState("");
-  useEffect(() => {
-    fetch("/api/mushrooms")
-      .then(async (r) => {
-        if (!r.ok) throw Error("Не удалось загрузить каталог");
-        setItems(await r.json());
-      })
-      .catch((e) => setError(e.message));
-  }, []);
+  useEffect(() => {setItems(mushrooms);}, []);
   const studied = items.filter((x) => progress[x.id]?.status === "STUDIED");
   const count = studied.length;
   const level = levels.filter((x) => x.at <= count).at(-1)!;
@@ -86,8 +80,8 @@ export function ProgressPage() {
       {!user && (
         <div className="inline-banner">
           <p>
-            Прогресс сохранён в этом браузере. Создай аккаунт, чтобы продолжить
-            на другом устройстве.
+            Прогресс сохранён в этом браузере. Создай локальный аккаунт, чтобы
+            хранить свои отметки отдельно.
           </p>
           <Button asChild variant="outline">
             <Link href="/account">

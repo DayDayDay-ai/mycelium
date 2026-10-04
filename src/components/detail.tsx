@@ -4,12 +4,13 @@ import dynamic from "next/dynamic";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import Image from "next/image";
+import { asset } from "@/lib/assets";
 import type {
   Mushroom,
   MushroomLookalike,
   MushroomImage,
   MushroomRegion,
-} from "@prisma/client";
+} from "@/lib/mushroom-types";
 import { ArrowLeft, ArrowUpRight, Check, ShieldAlert } from "lucide-react";
 import {
   edibilityLabels,
@@ -40,9 +41,9 @@ function SpecimenMedia({ item }: { item: DetailItem }) {
       <button type="button" aria-pressed={mode === "photo"} onClick={() => setMode("photo")}>Фото</button>
       <button type="button" aria-pressed={mode === "model"} onClick={() => setMode("model")}>3D-модель</button>
     </div>
-    {mode === "model" ? <Viewer color={item.modelColor} shape={item.modelShape} species={item.slug} url={item.model3dUrl}/> :
+    {mode === "model" ? <Viewer color={item.modelColor} shape={item.modelShape} species={item.slug} url={item.model3dUrl ? asset(item.model3dUrl) : null}/> :
       <div className="specimen-photo">
-        {photo && !failed ? <Image src={photo.url} alt={photo.alt} fill unoptimized={photo.url.startsWith("https://")} sizes="(max-width:900px) 100vw,55vw" onError={() => setFailed(true)}/> : <div className="photo-empty"><span>{failed ? "Не удалось загрузить фотографию" : "Фотография ещё не добавлена"}</span><p>Откройте 3D-модель для изучения общей формы.</p><Button variant="outline" onClick={() => setMode("model")}>Открыть 3D</Button></div>}
+        {photo && !failed ? <Image src={asset(photo.url)} alt={photo.alt} fill unoptimized={photo.url.startsWith("https://")} sizes="(max-width:900px) 100vw,55vw" onError={() => setFailed(true)}/> : <div className="photo-empty"><span>{failed ? "Не удалось загрузить фотографию" : "Фотография ещё не добавлена"}</span><p>Откройте 3D-модель для изучения общей формы.</p><Button variant="outline" onClick={() => setMode("model")}>Открыть 3D</Button></div>}
       </div>}
     <p className="media-caption">{mode === "model" ? "Учебная 3D-модель общей формы. Не определитель вида." : photo?.alt || "Фотография появится после проверки источника."}</p>
     {mode === "photo" && credit?.url === photo?.url && <p className="media-caption"><a href={credit.sourceUrl} target="_blank" rel="noreferrer">Автор и оригинал ↗</a> · <a href={credit.licenseUrl} target="_blank" rel="noreferrer">{credit.license === "public-domain" ? "Общественное достояние" : credit.license.toUpperCase()}</a></p>}
@@ -169,7 +170,7 @@ export function Detail({ item }: { item: DetailItem }) {
               {item.images.map((x) => (
                 <Image
                   key={x.id}
-                  src={x.url}
+                  src={asset(x.url)}
                   alt={x.alt}
                   width={600}
                   height={400}
@@ -217,7 +218,7 @@ export function Detail({ item }: { item: DetailItem }) {
             item.lookalikes.map((x) => (
               <div className="lookalike" key={x.id}>
                 <Image
-                  src={x.similar.coverImage}
+                  src={asset(x.similar.coverImage)}
                   alt={x.similar.nameRu}
                   width={180}
                   height={160}
@@ -324,7 +325,7 @@ export function Detail({ item }: { item: DetailItem }) {
             {[item, compare].map((x) => (
               <div key={x.id}>
                 <Image
-                  src={x.coverImage}
+                  src={asset(x.coverImage)}
                   alt={x.nameRu}
                   width={300}
                   height={230}
@@ -353,6 +354,8 @@ export function Detail({ item }: { item: DetailItem }) {
     </article>
   );
 }
+
+
 
 
 

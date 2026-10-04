@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useLearning } from "./provider";
 import { Button } from "./ui/button";
 export function Account() {
-  const { user, refresh, logout, guestCount, importGuest, ready } =
+  const { user, authenticate, logout, guestCount, importGuest, ready } =
     useLearning();
   const [register, setRegister] = useState(false),
     [error, setError] = useState(""),
@@ -16,20 +16,7 @@ export function Account() {
     setError("");
     const f = new FormData(e.currentTarget);
     try {
-      const r = await fetch(`/api/auth/${register ? "register" : "login"}`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          name: f.get("name"),
-          username: f.get("username"),
-          usernameConfirm: f.get("usernameConfirm"),
-          passwordConfirm: f.get("passwordConfirm"),
-          password: f.get("password"),
-        }),
-      });
-      const data = await r.json();
-      if (!r.ok) throw Error(data.details?.[0]?.message || data.error);
-      await refresh();
+      await authenticate(register ? "register" : "login", Object.fromEntries(f));
       setRegister(false);
     } catch (e) {
       setError((e as Error).message);
@@ -59,7 +46,7 @@ export function Account() {
             ? "Начни свой путь."
             : "С возвращением."}
       </h1>
-      <p className="muted">Изучай сейчас. Продолжай с любого устройства.</p>
+      <p className="muted">Аккаунт и прогресс сохраняются только в этом браузере. После очистки данных браузера они исчезнут.</p>
       {!ready ? (
         <p>Загрузка…</p>
       ) : user ? (

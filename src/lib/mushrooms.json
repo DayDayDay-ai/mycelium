@@ -1,0 +1,2903 @@
+[
+  {
+    "id": "cmuu0xf260000v0l8u3jyu8al",
+    "slug": "belyy-grib",
+    "nameRu": "Белый гриб",
+    "nameLatin": "Boletus edulis",
+    "description": "Белый гриб — учебная карточка вида Boletus edulis. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Выпуклая коричневая шляпка.",
+    "stemDescription": "Светлая толстая ножка со светлой сеточкой.",
+    "hymenophoreDescription": "Трубчатый слой, от белого до оливкового.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Почва под дубами и буками",
+      "Также хвойные леса с сосной или елью"
+    ],
+    "associatedTrees": [
+      "Ель",
+      "Сосна",
+      "Берёза"
+    ],
+    "seasonMonths": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/belyy-grib-commons.jpg",
+    "model3dUrl": null,
+    "modelColor": "#9b6138",
+    "modelShape": "bolete",
+    "sourceUrl": "https://www.first-nature.com/fungi/boletus-edulis.php",
+    "popularity": 100,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:17:04.638Z",
+    "updatedAt": "2026-10-04T17:49:52.113Z",
+    "images": [
+      {
+        "id": "cmuu43iy90001v0w03bvym1nk",
+        "mushroomId": "cmuu0xf260000v0l8u3jyu8al",
+        "url": "/photos/belyy-grib-commons.jpg",
+        "alt": "Белый гриб (Boletus edulis). reedwood"
+      }
+    ],
+    "regions": [],
+    "lookalikes": [
+      {
+        "id": "cmuu0xf38000cv0l85zp3pfax",
+        "mushroomId": "cmuu0xf260000v0l8u3jyu8al",
+        "similarId": "cmuu0xf2w0007v0l8acmqbvqe",
+        "differences": "У жёлчного гриба розовеющий трубчатый слой и тёмная сеточка. Не пробуйте гриб на вкус.",
+        "risk": "Высокий: подтверждайте определение с экспертом",
+        "similar": {
+          "id": "cmuu0xf2w0007v0l8acmqbvqe",
+          "slug": "zhelchnyy-grib",
+          "nameRu": "Жёлчный гриб",
+          "nameLatin": "Tylopilus felleus",
+          "description": "Жёлчный гриб — учебная карточка вида Tylopilus felleus. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+          "edibility": "INEDIBLE",
+          "toxicityLevel": "Требует проверки",
+          "collectionStatus": "FORBIDDEN",
+          "protectionStatus": "Требуется проверка по региону",
+          "difficulty": 2,
+          "capDescription": "Коричневая выпуклая шляпка.",
+          "stemDescription": "Выраженная тёмная сеточка на ножке.",
+          "hymenophoreDescription": "Трубчатый слой с возрастом розовеет.",
+          "fleshDescription": "Требует проверки",
+          "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+          "sizeDescription": "Требует проверки",
+          "damageReaction": "Требует проверки",
+          "habitat": [
+            "Хвойные леса",
+            "Почва под соснами и елями"
+          ],
+          "associatedTrees": [
+            "Сосна",
+            "Ель"
+          ],
+          "seasonMonths": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "warning": "Несъедобный вид. Изучайте в природе, не употребляйте.",
+          "coverImage": "/photos/zhelchnyy-grib.jpg",
+          "model3dUrl": null,
+          "modelColor": "#bc8b62",
+          "modelShape": "bolete",
+          "sourceUrl": "https://www.first-nature.com/fungi/tylopilus-felleus.php",
+          "popularity": 93,
+          "isPublished": true,
+          "createdAt": "2026-10-04T16:17:04.664Z",
+          "updatedAt": "2026-10-04T17:49:52.133Z"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cmuu0xf2h0001v0l89tlro7eg",
+    "slug": "lisichka",
+    "nameRu": "Лисичка настоящая",
+    "nameLatin": "Cantharellus cibarius",
+    "description": "Лисичка настоящая — учебная карточка вида Cantharellus cibarius. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Жёлтая, с волнистым краем, воронковидная.",
+    "stemDescription": "Жёлтая, плавно переходит в шляпку.",
+    "hymenophoreDescription": "Складки, нисходящие на ножку; не настоящие пластинки.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Почва и мох в лиственных и хвойных лесах",
+      "Под деревьями, а не на пнях"
+    ],
+    "associatedTrees": [
+      "Ель",
+      "Сосна",
+      "Берёза"
+    ],
+    "seasonMonths": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/lisichka.jpg",
+    "model3dUrl": null,
+    "modelColor": "#eda52b",
+    "modelShape": "chanterelle",
+    "sourceUrl": "https://www.first-nature.com/fungi/cantharellus-cibarius.php",
+    "popularity": 99,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:17:04.649Z",
+    "updatedAt": "2026-10-04T17:49:52.120Z",
+    "images": [
+      {
+        "id": "cmuu2emou0009v0vo6ovee5mp",
+        "mushroomId": "cmuu0xf2h0001v0l89tlro7eg",
+        "url": "/photos/lisichka.jpg",
+        "alt": "Лисичка настоящая (Cantharellus cibarius). no rights reserved"
+      }
+    ],
+    "regions": [],
+    "lookalikes": [
+      {
+        "id": "cmuu0xf3g000gv0l8sh9plv68",
+        "mushroomId": "cmuu0xf2h0001v0l89tlro7eg",
+        "similarId": "cmuu0xf33000av0l8kedowzaw",
+        "differences": "У настоящей лисички складки, у ложной — тонкие пластинки.",
+        "risk": "Высокий: подтверждайте определение с экспертом",
+        "similar": {
+          "id": "cmuu0xf33000av0l8kedowzaw",
+          "slug": "lozhnaya-lisichka",
+          "nameRu": "Лисичка ложная",
+          "nameLatin": "Hygrophoropsis aurantiaca",
+          "description": "Лисичка ложная — учебная карточка вида Hygrophoropsis aurantiaca. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+          "edibility": "INEDIBLE",
+          "toxicityLevel": "Требует проверки",
+          "collectionStatus": "FORBIDDEN",
+          "protectionStatus": "Требуется проверка по региону",
+          "difficulty": 2,
+          "capDescription": "Оранжевая, часто с более ровным краем.",
+          "stemDescription": "Оранжевая, тонкая.",
+          "hymenophoreDescription": "Настоящие тонкие, часто разветвлённые пластинки.",
+          "fleshDescription": "Требует проверки",
+          "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+          "sizeDescription": "Требует проверки",
+          "damageReaction": "Требует проверки",
+          "habitat": [
+            "Хвойная подстилка",
+            "Гниющая древесина и древесная щепа"
+          ],
+          "associatedTrees": [
+            "Сосна"
+          ],
+          "seasonMonths": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "warning": "Несъедобный вид. Изучайте в природе, не употребляйте.",
+          "coverImage": "/photos/lozhnaya-lisichka.jpg",
+          "model3dUrl": null,
+          "modelColor": "#ee8533",
+          "modelShape": "chanterelle",
+          "sourceUrl": "https://www.first-nature.com/fungi/hygrophoropsis-aurantiaca.php",
+          "popularity": 90,
+          "isPublished": true,
+          "createdAt": "2026-10-04T16:17:04.671Z",
+          "updatedAt": "2026-10-04T17:49:52.139Z"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cmuu0xf2k0002v0l8pafhryo3",
+    "slug": "podberezovik",
+    "nameRu": "Подберёзовик",
+    "nameLatin": "Leccinum scabrum",
+    "description": "Подберёзовик — учебная карточка вида Leccinum scabrum. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Коричневая полушаровидная шляпка.",
+    "stemDescription": "Светлая ножка с тёмными чешуйками.",
+    "hymenophoreDescription": "Трубчатый, светлый, с возрастом сероватый.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Под берёзами",
+      "Берёзовые и смешанные леса"
+    ],
+    "associatedTrees": [
+      "Берёза"
+    ],
+    "seasonMonths": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/podberezovik.jpg",
+    "model3dUrl": null,
+    "modelColor": "#795044",
+    "modelShape": "bolete",
+    "sourceUrl": "https://www.first-nature.com/fungi/leccinum-scabrum.php",
+    "popularity": 98,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:17:04.652Z",
+    "updatedAt": "2026-10-04T17:49:52.123Z",
+    "images": [
+      {
+        "id": "cmuu2fwbl000vv0vogq3ihcah",
+        "mushroomId": "cmuu0xf2k0002v0l8pafhryo3",
+        "url": "/photos/podberezovik.jpg",
+        "alt": "Подберёзовик (Leccinum scabrum). (c) Judith, some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu0xf2m0003v0l84azih230",
+    "slug": "podosinovik",
+    "nameRu": "Подосиновик красный",
+    "nameLatin": "Leccinum aurantiacum",
+    "description": "Подосиновик красный — учебная карточка вида Leccinum aurantiacum. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Оранжево-красная выпуклая шляпка.",
+    "stemDescription": "С чешуйками, окраска меняется с возрастом.",
+    "hymenophoreDescription": "Светлый трубчатый слой.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Под осинами и другими тополями",
+      "Лиственные и смешанные леса"
+    ],
+    "associatedTrees": [
+      "Осина",
+      "Тополь"
+    ],
+    "seasonMonths": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/podosinovik.jpg",
+    "model3dUrl": null,
+    "modelColor": "#dd6e30",
+    "modelShape": "bolete",
+    "sourceUrl": "https://www.first-nature.com/fungi/leccinum-aurantiacum.php",
+    "popularity": 97,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:17:04.654Z",
+    "updatedAt": "2026-10-04T17:49:52.125Z",
+    "images": [
+      {
+        "id": "cmuu2fzlf000xv0vopyjfnb68",
+        "mushroomId": "cmuu0xf2m0003v0l84azih230",
+        "url": "/photos/podosinovik.jpg",
+        "alt": "Подосиновик красный (Leccinum aurantiacum). no rights reserved"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu0xf2o0004v0l8f3leqd9x",
+    "slug": "shampinion",
+    "nameRu": "Шампиньон полевой",
+    "nameLatin": "Agaricus arvensis",
+    "description": "Шампиньон полевой — учебная карточка вида Agaricus arvensis. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Белая или кремовая шляпка.",
+    "stemDescription": "С кольцом; проверяйте целое основание ножки.",
+    "hymenophoreDescription": "Пластинки с возрастом темнеют до коричневых.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Пастбища, луга и травянистые поляны",
+      "Иногда парки"
+    ],
+    "associatedTrees": [],
+    "seasonMonths": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/shampinion.jpg",
+    "model3dUrl": null,
+    "modelColor": "#ded4bc",
+    "modelShape": "agaric",
+    "sourceUrl": "https://www.first-nature.com/fungi/agaricus-arvensis.php",
+    "popularity": 96,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:17:04.657Z",
+    "updatedAt": "2026-10-04T17:49:52.127Z",
+    "images": [
+      {
+        "id": "cmuu2g54r0011v0vobo80zjpw",
+        "mushroomId": "cmuu0xf2o0004v0l8f3leqd9x",
+        "url": "/photos/shampinion.jpg",
+        "alt": "Шампиньон полевой (Agaricus arvensis). (c) Jerry Cooper, some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": [
+      {
+        "id": "cmuu0xf3l000kv0l824ncmo74",
+        "mushroomId": "cmuu0xf2o0004v0l8f3leqd9x",
+        "similarId": "cmuu0xf2s0006v0l8z4qmd2w7",
+        "differences": "У поганки белые пластинки и вольва; у зрелого шампиньона пластинки коричневые. Проверяйте все признаки с экспертом.",
+        "risk": "Высокий: подтверждайте определение с экспертом",
+        "similar": {
+          "id": "cmuu0xf2s0006v0l8z4qmd2w7",
+          "slug": "blednaya-poganka",
+          "nameRu": "Бледная поганка",
+          "nameLatin": "Amanita phalloides",
+          "description": "Бледная поганка — учебная карточка вида Amanita phalloides. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+          "edibility": "DEADLY",
+          "toxicityLevel": "Токсичен",
+          "collectionStatus": "FORBIDDEN",
+          "protectionStatus": "Требуется проверка по региону",
+          "difficulty": 3,
+          "capDescription": "Оливковая, желтоватая или почти белая.",
+          "stemDescription": "Белая с кольцом и мешковидной вольвой у основания.",
+          "hymenophoreDescription": "Белые пластинки.",
+          "fleshDescription": "Требует проверки",
+          "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+          "sizeDescription": "Требует проверки",
+          "damageReaction": "Требует проверки",
+          "habitat": [
+            "Лиственные и смешанные леса",
+            "Часто под дубами и буками"
+          ],
+          "associatedTrees": [
+            "Дуб",
+            "Бук"
+          ],
+          "seasonMonths": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "warning": "Смертельно ядовит. Не собирать и не употреблять.",
+          "coverImage": "/photos/blednaya-poganka.jpg",
+          "model3dUrl": null,
+          "modelColor": "#b2b86c",
+          "modelShape": "amanita-smooth",
+          "sourceUrl": "https://www.first-nature.com/fungi/amanita-phalloides.php",
+          "popularity": 94,
+          "isPublished": true,
+          "createdAt": "2026-10-04T16:17:04.661Z",
+          "updatedAt": "2026-10-04T17:49:52.131Z"
+        }
+      },
+      {
+        "id": "cmuu2zjn20018v0b0tjanmm9w",
+        "mushroomId": "cmuu0xf2o0004v0l8f3leqd9x",
+        "similarId": "cmuu2dacu000rv018dszcli62",
+        "differences": "У желтокожего шампиньона основание ножки быстро желтеет при повреждении. Проверяйте совокупность признаков; не пробуйте на вкус.",
+        "risk": "Высокий: подтверждайте определение с экспертом",
+        "similar": {
+          "id": "cmuu2dacu000rv018dszcli62",
+          "slug": "shampinion-zheltokozhiy",
+          "nameRu": "Шампиньон желтокожий",
+          "nameLatin": "Agaricus xanthodermus",
+          "description": "Шампиньон желтокожий — учебная карточка вида Agaricus xanthodermus. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+          "edibility": "POISONOUS",
+          "toxicityLevel": "Токсичен",
+          "collectionStatus": "FORBIDDEN",
+          "protectionStatus": "Требуется проверка по региону",
+          "difficulty": 2,
+          "capDescription": "Белая, затем сероватая; повреждённые участки быстро желтеют.",
+          "stemDescription": "Белая, с кольцом; основание желтеет на срезе.",
+          "hymenophoreDescription": "Свободные пластинки, с возрастом розовеют и становятся серо-коричневыми.",
+          "fleshDescription": "Требует проверки",
+          "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+          "sizeDescription": "Требует проверки",
+          "damageReaction": "Требует проверки",
+          "habitat": [
+            "Парки и сады",
+            "Края живых изгородей и нарушенная почва"
+          ],
+          "associatedTrees": [],
+          "seasonMonths": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "warning": "Ядовит. Не собирать и не употреблять.",
+          "coverImage": "/photos/shampinion-zheltokozhiy-commons.jpg",
+          "model3dUrl": null,
+          "modelColor": "#e7e3d4",
+          "modelShape": "agaric",
+          "sourceUrl": "https://www.first-nature.com/fungi/agaricus-xanthodermus.php",
+          "popularity": 73,
+          "isPublished": true,
+          "createdAt": "2026-10-04T16:57:24.654Z",
+          "updatedAt": "2026-10-04T17:49:52.171Z"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cmuu0xf2q0005v0l8sqiu7b2v",
+    "slug": "muhomor",
+    "nameRu": "Мухомор красный",
+    "nameLatin": "Amanita muscaria",
+    "description": "Мухомор красный — учебная карточка вида Amanita muscaria. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "POISONOUS",
+    "toxicityLevel": "Токсичен",
+    "collectionStatus": "FORBIDDEN",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Красная шляпка с белыми остатками покрывала; их может смыть дождём.",
+    "stemDescription": "Белая, с кольцом и утолщённым основанием.",
+    "hymenophoreDescription": "Белые пластинки.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Под берёзами, соснами и елями",
+      "Лиственные, хвойные и смешанные леса"
+    ],
+    "associatedTrees": [
+      "Берёза",
+      "Сосна"
+    ],
+    "seasonMonths": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "Ядовит. Не собирать и не употреблять.",
+    "coverImage": "/photos/muhomor-commons.jpg",
+    "model3dUrl": null,
+    "modelColor": "#ec402f",
+    "modelShape": "amanita",
+    "sourceUrl": "https://www.first-nature.com/fungi/amanita-muscaria.php",
+    "popularity": 95,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:17:04.659Z",
+    "updatedAt": "2026-10-04T17:49:52.129Z",
+    "images": [
+      {
+        "id": "cmuu43iyi0003v0w03xlv21es",
+        "mushroomId": "cmuu0xf2q0005v0l8sqiu7b2v",
+        "url": "/photos/muhomor-commons.jpg",
+        "alt": "Мухомор красный (Amanita muscaria). © Hans Hillewaert"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu0xf2s0006v0l8z4qmd2w7",
+    "slug": "blednaya-poganka",
+    "nameRu": "Бледная поганка",
+    "nameLatin": "Amanita phalloides",
+    "description": "Бледная поганка — учебная карточка вида Amanita phalloides. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "DEADLY",
+    "toxicityLevel": "Токсичен",
+    "collectionStatus": "FORBIDDEN",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 3,
+    "capDescription": "Оливковая, желтоватая или почти белая.",
+    "stemDescription": "Белая с кольцом и мешковидной вольвой у основания.",
+    "hymenophoreDescription": "Белые пластинки.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Лиственные и смешанные леса",
+      "Часто под дубами и буками"
+    ],
+    "associatedTrees": [
+      "Дуб",
+      "Бук"
+    ],
+    "seasonMonths": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "Смертельно ядовит. Не собирать и не употреблять.",
+    "coverImage": "/photos/blednaya-poganka.jpg",
+    "model3dUrl": null,
+    "modelColor": "#b2b86c",
+    "modelShape": "amanita-smooth",
+    "sourceUrl": "https://www.first-nature.com/fungi/amanita-phalloides.php",
+    "popularity": 94,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:17:04.661Z",
+    "updatedAt": "2026-10-04T17:49:52.131Z",
+    "images": [
+      {
+        "id": "cmuu2efqe0003v0vooiuvu107",
+        "mushroomId": "cmuu0xf2s0006v0l8z4qmd2w7",
+        "url": "/photos/blednaya-poganka.jpg",
+        "alt": "Бледная поганка (Amanita phalloides). (c) Sofia Zvolanek, some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": [
+      {
+        "id": "cmuu0xf3n000mv0l8yrxnkant",
+        "mushroomId": "cmuu0xf2s0006v0l8z4qmd2w7",
+        "similarId": "cmuu0xf2o0004v0l8f3leqd9x",
+        "differences": "У поганки белые пластинки и вольва; у зрелого шампиньона пластинки коричневые. Проверяйте все признаки с экспертом.",
+        "risk": "Высокий: подтверждайте определение с экспертом",
+        "similar": {
+          "id": "cmuu0xf2o0004v0l8f3leqd9x",
+          "slug": "shampinion",
+          "nameRu": "Шампиньон полевой",
+          "nameLatin": "Agaricus arvensis",
+          "description": "Шампиньон полевой — учебная карточка вида Agaricus arvensis. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+          "edibility": "EDIBLE",
+          "toxicityLevel": "Требует проверки",
+          "collectionStatus": "REGIONAL",
+          "protectionStatus": "Требуется проверка по региону",
+          "difficulty": 2,
+          "capDescription": "Белая или кремовая шляпка.",
+          "stemDescription": "С кольцом; проверяйте целое основание ножки.",
+          "hymenophoreDescription": "Пластинки с возрастом темнеют до коричневых.",
+          "fleshDescription": "Требует проверки",
+          "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+          "sizeDescription": "Требует проверки",
+          "damageReaction": "Требует проверки",
+          "habitat": [
+            "Пастбища, луга и травянистые поляны",
+            "Иногда парки"
+          ],
+          "associatedTrees": [],
+          "seasonMonths": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+          "coverImage": "/photos/shampinion.jpg",
+          "model3dUrl": null,
+          "modelColor": "#ded4bc",
+          "modelShape": "agaric",
+          "sourceUrl": "https://www.first-nature.com/fungi/agaricus-arvensis.php",
+          "popularity": 96,
+          "isPublished": true,
+          "createdAt": "2026-10-04T16:17:04.657Z",
+          "updatedAt": "2026-10-04T17:49:52.127Z"
+        }
+      },
+      {
+        "id": "cmuu2zjnd001iv0b0dvfztdk5",
+        "mushroomId": "cmuu0xf2s0006v0l8z4qmd2w7",
+        "similarId": "cmuu2ikl0000xv0zwd05dknoz",
+        "differences": "Зелёная окраска не отличает эти виды надёжно. У поганки есть вольва и обычно кольцо; у сыроежки нет. Основание ножки необходимо видеть полностью.",
+        "risk": "Высокий: подтверждайте определение с экспертом",
+        "similar": {
+          "id": "cmuu2ikl0000xv0zwd05dknoz",
+          "slug": "syroezhka-zelenovataya",
+          "nameRu": "Сыроежка зеленоватая",
+          "nameLatin": "Russula virescens",
+          "description": "Сыроежка зеленоватая — учебная карточка вида Russula virescens. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+          "edibility": "EDIBLE",
+          "toxicityLevel": "Требует проверки",
+          "collectionStatus": "REGIONAL",
+          "protectionStatus": "Требуется проверка по региону",
+          "difficulty": 2,
+          "capDescription": "Зелёная, с характерной сеткой трещин; с возрастом цвет выцветает.",
+          "stemDescription": "Белая или кремовая, без кольца и вольвы.",
+          "hymenophoreDescription": "Кремово-белые пластинки.",
+          "fleshDescription": "Требует проверки",
+          "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+          "sizeDescription": "Требует проверки",
+          "damageReaction": "Требует проверки",
+          "habitat": [
+            "Лиственный лес под буками и дубами",
+            "Каштановые леса"
+          ],
+          "associatedTrees": [
+            "Бук",
+            "Дуб",
+            "Каштан"
+          ],
+          "seasonMonths": [
+            8,
+            9,
+            10
+          ],
+          "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+          "coverImage": "/photos/syroezhka-zelenovataya.jpg",
+          "model3dUrl": null,
+          "modelColor": "#a0ae74",
+          "modelShape": "agaric",
+          "sourceUrl": "https://www.first-nature.com/fungi/russula-virescens.php",
+          "popularity": 67,
+          "isPublished": true,
+          "createdAt": "2026-10-04T17:01:31.188Z",
+          "updatedAt": "2026-10-04T17:49:52.183Z"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cmuu0xf2w0007v0l8acmqbvqe",
+    "slug": "zhelchnyy-grib",
+    "nameRu": "Жёлчный гриб",
+    "nameLatin": "Tylopilus felleus",
+    "description": "Жёлчный гриб — учебная карточка вида Tylopilus felleus. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "INEDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "FORBIDDEN",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Коричневая выпуклая шляпка.",
+    "stemDescription": "Выраженная тёмная сеточка на ножке.",
+    "hymenophoreDescription": "Трубчатый слой с возрастом розовеет.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Хвойные леса",
+      "Почва под соснами и елями"
+    ],
+    "associatedTrees": [
+      "Сосна",
+      "Ель"
+    ],
+    "seasonMonths": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "Несъедобный вид. Изучайте в природе, не употребляйте.",
+    "coverImage": "/photos/zhelchnyy-grib.jpg",
+    "model3dUrl": null,
+    "modelColor": "#bc8b62",
+    "modelShape": "bolete",
+    "sourceUrl": "https://www.first-nature.com/fungi/tylopilus-felleus.php",
+    "popularity": 93,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:17:04.664Z",
+    "updatedAt": "2026-10-04T17:49:52.133Z",
+    "images": [
+      {
+        "id": "cmuu2gnfa001hv0vogw5kub3j",
+        "mushroomId": "cmuu0xf2w0007v0l8acmqbvqe",
+        "url": "/photos/zhelchnyy-grib.jpg",
+        "alt": "Жёлчный гриб (Tylopilus felleus). (c) Shirley Zundell, some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": [
+      {
+        "id": "cmuu0xf3d000ev0l80tc1c3xm",
+        "mushroomId": "cmuu0xf2w0007v0l8acmqbvqe",
+        "similarId": "cmuu0xf260000v0l8u3jyu8al",
+        "differences": "У жёлчного гриба розовеющий трубчатый слой и тёмная сеточка. Не пробуйте гриб на вкус.",
+        "risk": "Высокий: подтверждайте определение с экспертом",
+        "similar": {
+          "id": "cmuu0xf260000v0l8u3jyu8al",
+          "slug": "belyy-grib",
+          "nameRu": "Белый гриб",
+          "nameLatin": "Boletus edulis",
+          "description": "Белый гриб — учебная карточка вида Boletus edulis. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+          "edibility": "EDIBLE",
+          "toxicityLevel": "Требует проверки",
+          "collectionStatus": "REGIONAL",
+          "protectionStatus": "Требуется проверка по региону",
+          "difficulty": 2,
+          "capDescription": "Выпуклая коричневая шляпка.",
+          "stemDescription": "Светлая толстая ножка со светлой сеточкой.",
+          "hymenophoreDescription": "Трубчатый слой, от белого до оливкового.",
+          "fleshDescription": "Требует проверки",
+          "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+          "sizeDescription": "Требует проверки",
+          "damageReaction": "Требует проверки",
+          "habitat": [
+            "Почва под дубами и буками",
+            "Также хвойные леса с сосной или елью"
+          ],
+          "associatedTrees": [
+            "Ель",
+            "Сосна",
+            "Берёза"
+          ],
+          "seasonMonths": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+          "coverImage": "/photos/belyy-grib-commons.jpg",
+          "model3dUrl": null,
+          "modelColor": "#9b6138",
+          "modelShape": "bolete",
+          "sourceUrl": "https://www.first-nature.com/fungi/boletus-edulis.php",
+          "popularity": 100,
+          "isPublished": true,
+          "createdAt": "2026-10-04T16:17:04.638Z",
+          "updatedAt": "2026-10-04T17:49:52.113Z"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cmuu0xf2y0008v0l8xlbgwvli",
+    "slug": "openok",
+    "nameRu": "Опёнок осенний",
+    "nameLatin": "Armillaria mellea",
+    "description": "Опёнок осенний — учебная карточка вида Armillaria mellea. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "CONDITIONAL",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Медово-коричневая, часто с чешуйками.",
+    "stemDescription": "Обычно с кольцом.",
+    "hymenophoreDescription": "Светлые пластинки.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Пни, корни и основания стволов",
+      "Живые и мёртвые лиственные деревья"
+    ],
+    "associatedTrees": [],
+    "seasonMonths": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "В сыром виде или при неправильной обработке может вызвать отравление. Эта карточка не содержит инструкции приготовления и не подтверждает безопасность найденного гриба.",
+    "coverImage": "/photos/openok.jpg",
+    "model3dUrl": null,
+    "modelColor": "#cba25e",
+    "modelShape": "agaric",
+    "sourceUrl": "https://www.first-nature.com/fungi/armillaria-mellea.php",
+    "popularity": 92,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:17:04.667Z",
+    "updatedAt": "2026-10-04T17:49:52.135Z",
+    "images": [
+      {
+        "id": "cmuu2fp9y000pv0vo5ebr5e2s",
+        "mushroomId": "cmuu0xf2y0008v0l8xlbgwvli",
+        "url": "/photos/openok.jpg",
+        "alt": "Опёнок осенний (Armillaria mellea). (c) MichellePrice_CJBG, some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": [
+      {
+        "id": "cmuu0xf3q000ov0l8043d94vr",
+        "mushroomId": "cmuu0xf2y0008v0l8xlbgwvli",
+        "similarId": "cmuu0xf310009v0l86b7bf4u5",
+        "differences": "Наличие кольца и цвет пластинок — лишь часть признаков; похожих видов много.",
+        "risk": "Высокий: подтверждайте определение с экспертом",
+        "similar": {
+          "id": "cmuu0xf310009v0l86b7bf4u5",
+          "slug": "lozhnyy-openok",
+          "nameRu": "Ложноопёнок серно-жёлтый",
+          "nameLatin": "Hypholoma fasciculare",
+          "description": "Ложноопёнок серно-жёлтый — учебная карточка вида Hypholoma fasciculare. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+          "edibility": "POISONOUS",
+          "toxicityLevel": "Токсичен",
+          "collectionStatus": "FORBIDDEN",
+          "protectionStatus": "Требуется проверка по региону",
+          "difficulty": 2,
+          "capDescription": "Серно-жёлтая, центр темнее.",
+          "stemDescription": "Без выраженного кольца.",
+          "hymenophoreDescription": "Желтоватые, позднее зеленоватые и тёмные пластинки.",
+          "fleshDescription": "Требует проверки",
+          "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+          "sizeDescription": "Требует проверки",
+          "damageReaction": "Требует проверки",
+          "habitat": [
+            "Гниющие пни и брёвна",
+            "Мёртвая древесина лиственных и хвойных деревьев"
+          ],
+          "associatedTrees": [],
+          "seasonMonths": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "warning": "Ядовит. Не собирать и не употреблять.",
+          "coverImage": "/photos/lozhnyy-openok-commons.jpg",
+          "model3dUrl": null,
+          "modelColor": "#d6c244",
+          "modelShape": "agaric",
+          "sourceUrl": "https://www.first-nature.com/fungi/hypholoma-fasciculare.php",
+          "popularity": 91,
+          "isPublished": true,
+          "createdAt": "2026-10-04T16:17:04.669Z",
+          "updatedAt": "2026-10-04T17:49:52.137Z"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cmuu0xf310009v0l86b7bf4u5",
+    "slug": "lozhnyy-openok",
+    "nameRu": "Ложноопёнок серно-жёлтый",
+    "nameLatin": "Hypholoma fasciculare",
+    "description": "Ложноопёнок серно-жёлтый — учебная карточка вида Hypholoma fasciculare. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "POISONOUS",
+    "toxicityLevel": "Токсичен",
+    "collectionStatus": "FORBIDDEN",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Серно-жёлтая, центр темнее.",
+    "stemDescription": "Без выраженного кольца.",
+    "hymenophoreDescription": "Желтоватые, позднее зеленоватые и тёмные пластинки.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Гниющие пни и брёвна",
+      "Мёртвая древесина лиственных и хвойных деревьев"
+    ],
+    "associatedTrees": [],
+    "seasonMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "warning": "Ядовит. Не собирать и не употреблять.",
+    "coverImage": "/photos/lozhnyy-openok-commons.jpg",
+    "model3dUrl": null,
+    "modelColor": "#d6c244",
+    "modelShape": "agaric",
+    "sourceUrl": "https://www.first-nature.com/fungi/hypholoma-fasciculare.php",
+    "popularity": 91,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:17:04.669Z",
+    "updatedAt": "2026-10-04T17:49:52.137Z",
+    "images": [
+      {
+        "id": "cmuu43iys0005v0w04fd673cq",
+        "mushroomId": "cmuu0xf310009v0l86b7bf4u5",
+        "url": "/photos/lozhnyy-openok-commons.jpg",
+        "alt": "Ложноопёнок серно-жёлтый (Hypholoma fasciculare). George Chernilevsky"
+      }
+    ],
+    "regions": [],
+    "lookalikes": [
+      {
+        "id": "cmuu0xf3r000qv0l87npy5nrn",
+        "mushroomId": "cmuu0xf310009v0l86b7bf4u5",
+        "similarId": "cmuu0xf2y0008v0l8xlbgwvli",
+        "differences": "Наличие кольца и цвет пластинок — лишь часть признаков; похожих видов много.",
+        "risk": "Высокий: подтверждайте определение с экспертом",
+        "similar": {
+          "id": "cmuu0xf2y0008v0l8xlbgwvli",
+          "slug": "openok",
+          "nameRu": "Опёнок осенний",
+          "nameLatin": "Armillaria mellea",
+          "description": "Опёнок осенний — учебная карточка вида Armillaria mellea. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+          "edibility": "CONDITIONAL",
+          "toxicityLevel": "Требует проверки",
+          "collectionStatus": "REGIONAL",
+          "protectionStatus": "Требуется проверка по региону",
+          "difficulty": 2,
+          "capDescription": "Медово-коричневая, часто с чешуйками.",
+          "stemDescription": "Обычно с кольцом.",
+          "hymenophoreDescription": "Светлые пластинки.",
+          "fleshDescription": "Требует проверки",
+          "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+          "sizeDescription": "Требует проверки",
+          "damageReaction": "Требует проверки",
+          "habitat": [
+            "Пни, корни и основания стволов",
+            "Живые и мёртвые лиственные деревья"
+          ],
+          "associatedTrees": [],
+          "seasonMonths": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "warning": "В сыром виде или при неправильной обработке может вызвать отравление. Эта карточка не содержит инструкции приготовления и не подтверждает безопасность найденного гриба.",
+          "coverImage": "/photos/openok.jpg",
+          "model3dUrl": null,
+          "modelColor": "#cba25e",
+          "modelShape": "agaric",
+          "sourceUrl": "https://www.first-nature.com/fungi/armillaria-mellea.php",
+          "popularity": 92,
+          "isPublished": true,
+          "createdAt": "2026-10-04T16:17:04.667Z",
+          "updatedAt": "2026-10-04T17:49:52.135Z"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cmuu0xf33000av0l8kedowzaw",
+    "slug": "lozhnaya-lisichka",
+    "nameRu": "Лисичка ложная",
+    "nameLatin": "Hygrophoropsis aurantiaca",
+    "description": "Лисичка ложная — учебная карточка вида Hygrophoropsis aurantiaca. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "INEDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "FORBIDDEN",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Оранжевая, часто с более ровным краем.",
+    "stemDescription": "Оранжевая, тонкая.",
+    "hymenophoreDescription": "Настоящие тонкие, часто разветвлённые пластинки.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Хвойная подстилка",
+      "Гниющая древесина и древесная щепа"
+    ],
+    "associatedTrees": [
+      "Сосна"
+    ],
+    "seasonMonths": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "Несъедобный вид. Изучайте в природе, не употребляйте.",
+    "coverImage": "/photos/lozhnaya-lisichka.jpg",
+    "model3dUrl": null,
+    "modelColor": "#ee8533",
+    "modelShape": "chanterelle",
+    "sourceUrl": "https://www.first-nature.com/fungi/hygrophoropsis-aurantiaca.php",
+    "popularity": 90,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:17:04.671Z",
+    "updatedAt": "2026-10-04T17:49:52.139Z",
+    "images": [
+      {
+        "id": "cmuu2eo8m000bv0voqhczbvda",
+        "mushroomId": "cmuu0xf33000av0l8kedowzaw",
+        "url": "/photos/lozhnaya-lisichka.jpg",
+        "alt": "Лисичка ложная (Hygrophoropsis aurantiaca). no rights reserved"
+      }
+    ],
+    "regions": [],
+    "lookalikes": [
+      {
+        "id": "cmuu0xf3i000iv0l8lds3m8ct",
+        "mushroomId": "cmuu0xf33000av0l8kedowzaw",
+        "similarId": "cmuu0xf2h0001v0l89tlro7eg",
+        "differences": "У настоящей лисички складки, у ложной — тонкие пластинки.",
+        "risk": "Высокий: подтверждайте определение с экспертом",
+        "similar": {
+          "id": "cmuu0xf2h0001v0l89tlro7eg",
+          "slug": "lisichka",
+          "nameRu": "Лисичка настоящая",
+          "nameLatin": "Cantharellus cibarius",
+          "description": "Лисичка настоящая — учебная карточка вида Cantharellus cibarius. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+          "edibility": "EDIBLE",
+          "toxicityLevel": "Требует проверки",
+          "collectionStatus": "REGIONAL",
+          "protectionStatus": "Требуется проверка по региону",
+          "difficulty": 2,
+          "capDescription": "Жёлтая, с волнистым краем, воронковидная.",
+          "stemDescription": "Жёлтая, плавно переходит в шляпку.",
+          "hymenophoreDescription": "Складки, нисходящие на ножку; не настоящие пластинки.",
+          "fleshDescription": "Требует проверки",
+          "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+          "sizeDescription": "Требует проверки",
+          "damageReaction": "Требует проверки",
+          "habitat": [
+            "Почва и мох в лиственных и хвойных лесах",
+            "Под деревьями, а не на пнях"
+          ],
+          "associatedTrees": [
+            "Ель",
+            "Сосна",
+            "Берёза"
+          ],
+          "seasonMonths": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+          "coverImage": "/photos/lisichka.jpg",
+          "model3dUrl": null,
+          "modelColor": "#eda52b",
+          "modelShape": "chanterelle",
+          "sourceUrl": "https://www.first-nature.com/fungi/cantharellus-cibarius.php",
+          "popularity": 99,
+          "isPublished": true,
+          "createdAt": "2026-10-04T16:17:04.649Z",
+          "updatedAt": "2026-10-04T17:49:52.120Z"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cmuu2dac5000bv018s068aitl",
+    "slug": "veshenka",
+    "nameRu": "Вешенка обыкновенная",
+    "nameLatin": "Pleurotus ostreatus",
+    "description": "Вешенка обыкновенная — учебная карточка вида Pleurotus ostreatus. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Серо-коричневая, веерообразная или похожая на раковину.",
+    "stemDescription": "Короткая, боковая; иногда почти отсутствует.",
+    "hymenophoreDescription": "Светлые частые пластинки спускаются на ножку.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Мёртвые стволы лиственных деревьев",
+      "Пни и валежник"
+    ],
+    "associatedTrees": [
+      "Бук",
+      "Дуб"
+    ],
+    "seasonMonths": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/veshenka.jpg",
+    "model3dUrl": null,
+    "modelColor": "#9a9990",
+    "modelShape": "agaric",
+    "sourceUrl": "https://www.first-nature.com/fungi/pleurotus-ostreatus.php",
+    "popularity": 89,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:57:24.629Z",
+    "updatedAt": "2026-10-04T17:49:52.140Z",
+    "images": [
+      {
+        "id": "cmuu2ggc1001bv0voc5ftrjgm",
+        "mushroomId": "cmuu2dac5000bv018s068aitl",
+        "url": "/photos/veshenka.jpg",
+        "alt": "Вешенка обыкновенная (Pleurotus ostreatus). (c) Katja Schulz, some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2dac7000cv01819nd658w",
+    "slug": "maslenok",
+    "nameRu": "Маслёнок обыкновенный",
+    "nameLatin": "Suillus luteus",
+    "description": "Маслёнок обыкновенный — учебная карточка вида Suillus luteus. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Коричневая; во влажную погоду слизистая.",
+    "stemDescription": "Светлая, с заметным плёнчатым кольцом.",
+    "hymenophoreDescription": "Жёлтый трубчатый слой.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Хвойный лес",
+      "Влажные затенённые места под хвойными деревьями"
+    ],
+    "associatedTrees": [
+      "Сосна"
+    ],
+    "seasonMonths": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/maslenok.jpg",
+    "model3dUrl": null,
+    "modelColor": "#87592e",
+    "modelShape": "bolete",
+    "sourceUrl": "https://www.first-nature.com/fungi/suillus-luteus.php",
+    "popularity": 88,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:57:24.631Z",
+    "updatedAt": "2026-10-04T17:49:52.142Z",
+    "images": [
+      {
+        "id": "cmuu2erii000fv0voriecqenw",
+        "mushroomId": "cmuu2dac7000cv01819nd658w",
+        "url": "/photos/maslenok.jpg",
+        "alt": "Маслёнок обыкновенный (Suillus luteus). (c) Tim Sage, some rights reserved (CC BY-SA)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2dac8000dv018lpxkjdlm",
+    "slug": "maslenok-listvennichnyy",
+    "nameRu": "Маслёнок лиственничный",
+    "nameLatin": "Suillus grevillei",
+    "description": "Маслёнок лиственничный — учебная карточка вида Suillus grevillei. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Жёлтая или золотисто-оранжевая, липкая во влажную погоду.",
+    "stemDescription": "С зоной кольца и мелкими коричневыми точками.",
+    "hymenophoreDescription": "Жёлтые угловатые поры, с возрастом темнеющие.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Под лиственницами",
+      "Опушки и парки с лиственницей"
+    ],
+    "associatedTrees": [
+      "Лиственница"
+    ],
+    "seasonMonths": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/maslenok-listvennichnyy.jpg",
+    "model3dUrl": null,
+    "modelColor": "#e9b535",
+    "modelShape": "bolete",
+    "sourceUrl": "https://www.first-nature.com/fungi/suillus-grevillei.php",
+    "popularity": 87,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:57:24.633Z",
+    "updatedAt": "2026-10-04T17:49:52.144Z",
+    "images": [
+      {
+        "id": "cmuu2eu7l000hv0vojbwg94l0",
+        "mushroomId": "cmuu2dac8000dv018lpxkjdlm",
+        "url": "/photos/maslenok-listvennichnyy.jpg",
+        "alt": "Маслёнок лиственничный (Suillus grevillei). (c) Petr Harant, some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2daca000ev01891j8nw3b",
+    "slug": "muhomor-panternyy",
+    "nameRu": "Мухомор пантерный",
+    "nameLatin": "Amanita pantherina",
+    "description": "Мухомор пантерный — учебная карточка вида Amanita pantherina. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "POISONOUS",
+    "toxicityLevel": "Токсичен",
+    "collectionStatus": "FORBIDDEN",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Коричневая или серо-коричневая; белые остатки покрывала могут смываться дождём.",
+    "stemDescription": "Белая, с кольцом и утолщённым основанием в вольве.",
+    "hymenophoreDescription": "Белые свободные пластинки.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Лиственный лес",
+      "Смешанный лес"
+    ],
+    "associatedTrees": [
+      "Дуб",
+      "Сосна"
+    ],
+    "seasonMonths": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "Ядовит. Не собирать и не употреблять.",
+    "coverImage": "/photos/muhomor-panternyy.jpg",
+    "model3dUrl": null,
+    "modelColor": "#947452",
+    "modelShape": "amanita",
+    "sourceUrl": "https://www.first-nature.com/fungi/amanita-pantherina.php",
+    "popularity": 86,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:57:24.634Z",
+    "updatedAt": "2026-10-04T17:49:52.146Z",
+    "images": [
+      {
+        "id": "cmuu2exwr000jv0vopdlqtftx",
+        "mushroomId": "cmuu2daca000ev01891j8nw3b",
+        "url": "/photos/muhomor-panternyy.jpg",
+        "alt": "Мухомор пантерный (Amanita pantherina). (c) Donald Davesne, some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2dacb000fv018mh0918ri",
+    "slug": "muhomor-vonyuchiy",
+    "nameRu": "Мухомор вонючий",
+    "nameLatin": "Amanita virosa",
+    "description": "Мухомор вонючий — учебная карточка вида Amanita virosa. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "DEADLY",
+    "toxicityLevel": "Токсичен",
+    "collectionStatus": "FORBIDDEN",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Белая, сначала яйцевидная, затем колокольчатая.",
+    "stemDescription": "Белая, волокнистая, с хрупким кольцом и мешковидной вольвой.",
+    "hymenophoreDescription": "Белые частые свободные пластинки.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Опушки лиственных лесов",
+      "Опушки смешанных лесов"
+    ],
+    "associatedTrees": [],
+    "seasonMonths": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "Смертельно ядовит. Не собирать и не употреблять.",
+    "coverImage": "/photos/muhomor-vonyuchiy.jpg",
+    "model3dUrl": null,
+    "modelColor": "#e9e7df",
+    "modelShape": "amanita-smooth",
+    "sourceUrl": "https://www.first-nature.com/fungi/amanita-virosa.php",
+    "popularity": 85,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:57:24.636Z",
+    "updatedAt": "2026-10-04T17:49:52.148Z",
+    "images": [
+      {
+        "id": "cmuu2f1cy000lv0vobttj2d0r",
+        "mushroomId": "cmuu2dacb000fv018mh0918ri",
+        "url": "/photos/muhomor-vonyuchiy.jpg",
+        "alt": "Мухомор вонючий (Amanita virosa). (c) Thierry Arbault, some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2dacd000gv018jdyns3fr",
+    "slug": "galerina",
+    "nameRu": "Галерина окаймлённая",
+    "nameLatin": "Galerina marginata",
+    "description": "Галерина окаймлённая — учебная карточка вида Galerina marginata. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "DEADLY",
+    "toxicityLevel": "Токсичен",
+    "collectionStatus": "FORBIDDEN",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Небольшая, медово-коричневая; окраска зависит от влажности.",
+    "stemDescription": "Тонкая, с продольными волокнами ниже хрупкого кольца.",
+    "hymenophoreDescription": "Пластинки с возрастом становятся ржаво-коричневыми.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Гниющие пни",
+      "Мёртвые стволы и ветви хвойных, иногда лиственных деревьев"
+    ],
+    "associatedTrees": [],
+    "seasonMonths": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "Смертельно ядовит. Не собирать и не употреблять.",
+    "coverImage": "/photos/galerina.jpg",
+    "model3dUrl": null,
+    "modelColor": "#b88342",
+    "modelShape": "agaric",
+    "sourceUrl": "https://www.first-nature.com/fungi/galerina-marginata.php",
+    "popularity": 84,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:57:24.637Z",
+    "updatedAt": "2026-10-04T17:49:52.150Z",
+    "images": [
+      {
+        "id": "cmuu2ekf00007v0vo38jo78qd",
+        "mushroomId": "cmuu2dacd000gv018jdyns3fr",
+        "url": "/photos/galerina.jpg",
+        "alt": "Галерина окаймлённая (Galerina marginata). (c) Alan Rockefeller, some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": [
+      {
+        "id": "cmuu2zjmz0016v0b002kiic2m",
+        "mushroomId": "cmuu2dacd000gv018jdyns3fr",
+        "similarId": "cmuu2dacr000pv018n86ju44u",
+        "differences": "Летний опёнок и смертельно ядовитая галерина очень похожи и растут на древесине. Макропризнаков может быть недостаточно; необходимо экспертное, иногда микроскопическое определение.",
+        "risk": "Высокий: подтверждайте определение с экспертом",
+        "similar": {
+          "id": "cmuu2dacr000pv018n86ju44u",
+          "slug": "openok-letniy",
+          "nameRu": "Опёнок летний",
+          "nameLatin": "Kuehneromyces mutabilis",
+          "description": "Опёнок летний — учебная карточка вида Kuehneromyces mutabilis. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+          "edibility": "EDIBLE",
+          "toxicityLevel": "Требует проверки",
+          "collectionStatus": "REGIONAL",
+          "protectionStatus": "Требуется проверка по региону",
+          "difficulty": 2,
+          "capDescription": "Медово-коричневая, изменяет окраску при высыхании.",
+          "stemDescription": "С кольцом, ниже него мелкие чешуйки.",
+          "hymenophoreDescription": "Пластинки со временем становятся коричневыми.",
+          "fleshDescription": "Требует проверки",
+          "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+          "sizeDescription": "Требует проверки",
+          "damageReaction": "Требует проверки",
+          "habitat": [
+            "Пни лиственных деревьев",
+            "Поваленные стволы и брёвна, особенно берёзовые"
+          ],
+          "associatedTrees": [
+            "Берёза"
+          ],
+          "seasonMonths": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+          "coverImage": "/photos/openok-letniy.jpg",
+          "model3dUrl": null,
+          "modelColor": "#ba873d",
+          "modelShape": "agaric",
+          "sourceUrl": "https://www.first-nature.com/fungi/kuehneromyces-mutabilis.php",
+          "popularity": 75,
+          "isPublished": true,
+          "createdAt": "2026-10-04T16:57:24.651Z",
+          "updatedAt": "2026-10-04T17:49:52.167Z"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cmuu2dacf000hv0180w4chiki",
+    "slug": "svinushka",
+    "nameRu": "Свинушка тонкая",
+    "nameLatin": "Paxillus involutus",
+    "description": "Свинушка тонкая — учебная карточка вида Paxillus involutus. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "DEADLY",
+    "toxicityLevel": "Токсичен",
+    "collectionStatus": "FORBIDDEN",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Охристо-коричневая, с подвёрнутым краем, позднее вдавленная.",
+    "stemDescription": "Плотная, коричневатая, без кольца.",
+    "hymenophoreDescription": "Нисходящие пластинки, буреющие при повреждении.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Лиственный лес",
+      "Хвойный лес"
+    ],
+    "associatedTrees": [
+      "Берёза",
+      "Сосна"
+    ],
+    "seasonMonths": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "warning": "Смертельно ядовит. Не собирать и не употреблять.",
+    "coverImage": "/photos/svinushka.jpg",
+    "model3dUrl": null,
+    "modelColor": "#9c744b",
+    "modelShape": "chanterelle",
+    "sourceUrl": "https://www.first-nature.com/fungi/paxillus-involutus.php",
+    "popularity": 83,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:57:24.639Z",
+    "updatedAt": "2026-10-04T17:49:52.152Z",
+    "images": [
+      {
+        "id": "cmuu2gbvw0017v0vodjqbaixa",
+        "mushroomId": "cmuu2dacf000hv0180w4chiki",
+        "url": "/photos/svinushka.jpg",
+        "alt": "Свинушка тонкая (Paxillus involutus). (c) Victoria M., some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2dacg000iv0186y1tq5ar",
+    "slug": "strochok",
+    "nameRu": "Строчок обыкновенный",
+    "nameLatin": "Gyromitra esculenta",
+    "description": "Строчок обыкновенный — учебная карточка вида Gyromitra esculenta. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "DEADLY",
+    "toxicityLevel": "Токсичен",
+    "collectionStatus": "FORBIDDEN",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Коричневая, с глубокими извилистыми складками.",
+    "stemDescription": "Короткая светлая ножка неправильной формы.",
+    "hymenophoreDescription": "Спороносная поверхность находится на складках шляпки; пластинок нет.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Песчаная почва под соснами",
+      "Сосновый лес"
+    ],
+    "associatedTrees": [
+      "Сосна"
+    ],
+    "seasonMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "warning": "Смертельно ядовит. Не собирать и не употреблять.",
+    "coverImage": "/photos/strochok.jpg",
+    "model3dUrl": null,
+    "modelColor": "#6f4936",
+    "modelShape": "falsemorel",
+    "sourceUrl": "https://www.first-nature.com/fungi/gyromitra-esculenta.php",
+    "popularity": 82,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:57:24.640Z",
+    "updatedAt": "2026-10-04T17:49:52.154Z",
+    "images": [
+      {
+        "id": "cmuu2g9zs0015v0vowhc8dhtx",
+        "mushroomId": "cmuu2dacg000iv0186y1tq5ar",
+        "url": "/photos/strochok.jpg",
+        "alt": "Строчок обыкновенный (Gyromitra esculenta). (c) Jeffrey Lee (he/him/his), some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": [
+      {
+        "id": "cmuu2zjn8001ev0b0k5d30ew6",
+        "mushroomId": "cmuu2dacg000iv0186y1tq5ar",
+        "similarId": "cmuu2ikku000tv0zw02fvudgw",
+        "differences": "У сморчка шляпка с ячейками, у строчка извилистые складки. Строчок опасен даже после обработки; не используйте один признак как основание для употребления.",
+        "risk": "Высокий: подтверждайте определение с экспертом",
+        "similar": {
+          "id": "cmuu2ikku000tv0zw02fvudgw",
+          "slug": "smorchok",
+          "nameRu": "Сморчок настоящий",
+          "nameLatin": "Morchella esculenta",
+          "description": "Сморчок настоящий — учебная карточка вида Morchella esculenta. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+          "edibility": "CONDITIONAL",
+          "toxicityLevel": "Требует проверки",
+          "collectionStatus": "REGIONAL",
+          "protectionStatus": "Требуется проверка по региону",
+          "difficulty": 2,
+          "capDescription": "Охристая или коричневая, с ячейками, разделёнными рёбрами; полая.",
+          "stemDescription": "Белая или кремовая, полая.",
+          "hymenophoreDescription": "Спороносная поверхность выстилает ячейки шляпки; пластинок нет.",
+          "fleshDescription": "Требует проверки",
+          "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+          "sizeDescription": "Требует проверки",
+          "damageReaction": "Требует проверки",
+          "habitat": [
+            "Известковые почвы под лиственными деревьями",
+            "Иногда влажные дюны с карликовыми ивами"
+          ],
+          "associatedTrees": [
+            "Ива"
+          ],
+          "seasonMonths": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "warning": "В сыром виде или при неправильной обработке может вызвать отравление. Эта карточка не содержит инструкции приготовления и не подтверждает безопасность найденного гриба.",
+          "coverImage": "/photos/smorchok.jpg",
+          "model3dUrl": null,
+          "modelColor": "#af9669",
+          "modelShape": "morel",
+          "sourceUrl": "https://www.first-nature.com/fungi/morchella-esculenta.php",
+          "popularity": 71,
+          "isPublished": true,
+          "createdAt": "2026-10-04T17:01:31.183Z",
+          "updatedAt": "2026-10-04T17:49:52.175Z"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cmuu2dach000jv018v7xgo4j2",
+    "slug": "ryzhik",
+    "nameRu": "Рыжик настоящий",
+    "nameLatin": "Lactarius deliciosus",
+    "description": "Рыжик настоящий — учебная карточка вида Lactarius deliciosus. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Оранжевая, с концентрическими зонами и вдавленным центром.",
+    "stemDescription": "Оранжевая, с небольшими ямками; позднее полая.",
+    "hymenophoreDescription": "Оранжевые пластинки; при повреждении могут зеленеть.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Сосновый лес",
+      "Под соснами"
+    ],
+    "associatedTrees": [
+      "Сосна"
+    ],
+    "seasonMonths": [
+      8,
+      9,
+      10
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/ryzhik.jpg",
+    "model3dUrl": null,
+    "modelColor": "#d58b38",
+    "modelShape": "chanterelle",
+    "sourceUrl": "https://www.first-nature.com/fungi/lactarius-deliciosus.php",
+    "popularity": 81,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:57:24.642Z",
+    "updatedAt": "2026-10-04T17:49:52.156Z",
+    "images": [
+      {
+        "id": "cmuu2g2l5000zv0vo8saqyu8g",
+        "mushroomId": "cmuu2dach000jv018v7xgo4j2",
+        "url": "/photos/ryzhik.jpg",
+        "alt": "Рыжик настоящий (Lactarius deliciosus). (c) Nathan Aaron, some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2dacj000kv018h9vcuzx2",
+    "slug": "volnushka",
+    "nameRu": "Волнушка розовая",
+    "nameLatin": "Lactarius torminosus",
+    "description": "Волнушка розовая — учебная карточка вида Lactarius torminosus. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "CONDITIONAL",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Розовая, с концентрическими зонами и опушённым подвёрнутым краем.",
+    "stemDescription": "Светло-розовая, цилиндрическая.",
+    "hymenophoreDescription": "Светлые нисходящие пластинки; млечный сок белый.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Влажные места под берёзами",
+      "Берёзовые леса"
+    ],
+    "associatedTrees": [
+      "Берёза"
+    ],
+    "seasonMonths": [
+      8,
+      9,
+      10
+    ],
+    "warning": "В сыром виде или при неправильной обработке может вызвать отравление. Эта карточка не содержит инструкции приготовления и не подтверждает безопасность найденного гриба.",
+    "coverImage": "/photos/volnushka.jpg",
+    "model3dUrl": null,
+    "modelColor": "#cf9e93",
+    "modelShape": "chanterelle",
+    "sourceUrl": "https://www.first-nature.com/fungi/lactarius-torminosus.php",
+    "popularity": 80,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:57:24.644Z",
+    "updatedAt": "2026-10-04T17:49:52.158Z",
+    "images": [
+      {
+        "id": "cmuu2gihy001dv0vo97s0qz3m",
+        "mushroomId": "cmuu2dacj000kv018h9vcuzx2",
+        "url": "/photos/volnushka.jpg",
+        "alt": "Волнушка розовая (Lactarius torminosus). (c) Davide Puddu, some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2dacl000lv018e3sfg2u4",
+    "slug": "zontik",
+    "nameRu": "Зонтик пёстрый",
+    "nameLatin": "Macrolepiota procera",
+    "description": "Зонтик пёстрый — учебная карточка вида Macrolepiota procera. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Крупная, с коричневыми чешуйками и более тёмным центром.",
+    "stemDescription": "Длинная, с кольцом и коричневым рисунком, похожим на змеиную кожу.",
+    "hymenophoreDescription": "Белые или кремовые свободные пластинки.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Лесные поляны",
+      "Трава на опушках и пастбищах"
+    ],
+    "associatedTrees": [],
+    "seasonMonths": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/zontik.jpg",
+    "model3dUrl": null,
+    "modelColor": "#a99578",
+    "modelShape": "agaric",
+    "sourceUrl": "https://www.first-nature.com/fungi/macrolepiota-procera.php",
+    "popularity": 79,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:57:24.645Z",
+    "updatedAt": "2026-10-04T17:49:52.160Z",
+    "images": [
+      {
+        "id": "cmuu2u0i2000fv0esvuobmcov",
+        "mushroomId": "cmuu2dacl000lv018e3sfg2u4",
+        "url": "/photos/zontik.jpg",
+        "alt": "Зонтик пёстрый (Macrolepiota procera). no rights reserved"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2dacm000mv018l0tx3s0y",
+    "slug": "navoznik-belyy",
+    "nameRu": "Навозник белый",
+    "nameLatin": "Coprinus comatus",
+    "description": "Навозник белый — учебная карточка вида Coprinus comatus. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Белая, удлинённая, с лохматыми чешуйками; стареет и чернеет.",
+    "stemDescription": "Белая цилиндрическая, с небольшим кольцом.",
+    "hymenophoreDescription": "Сначала светлые пластинки, позднее розовеют и расплываются в чёрную жидкость.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Газоны и травянистые обочины",
+      "Края троп и открытые лесные участки"
+    ],
+    "associatedTrees": [],
+    "seasonMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/navoznik-belyy.jpg",
+    "model3dUrl": null,
+    "modelColor": "#dedacc",
+    "modelShape": "agaric",
+    "sourceUrl": "https://www.first-nature.com/fungi/coprinus-comatus.php",
+    "popularity": 78,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:57:24.647Z",
+    "updatedAt": "2026-10-04T17:49:52.162Z",
+    "images": [
+      {
+        "id": "cmuu2f4na000nv0voy3l2qf8r",
+        "mushroomId": "cmuu2dacm000mv018l0tx3s0y",
+        "url": "/photos/navoznik-belyy.jpg",
+        "alt": "Навозник белый (Coprinus comatus). (c) Tom Norton, some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2daco000nv018y8r2lxtl",
+    "slug": "ezhovik",
+    "nameRu": "Ежовик жёлтый",
+    "nameLatin": "Hydnum repandum",
+    "description": "Ежовик жёлтый — учебная карточка вида Hydnum repandum. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Светло-кремовая или охристая, часто неправильной формы.",
+    "stemDescription": "Светлая, может быть смещена от центра.",
+    "hymenophoreDescription": "Светлые ломкие шипики, спускающиеся на ножку.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Лесная подстилка",
+      "Мох и опавшие листья в лесу"
+    ],
+    "associatedTrees": [],
+    "seasonMonths": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/ezhovik.jpg",
+    "model3dUrl": null,
+    "modelColor": "#d9b779",
+    "modelShape": "chanterelle",
+    "sourceUrl": "https://www.first-nature.com/fungi/hydnum-repandum.php",
+    "popularity": 77,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:57:24.648Z",
+    "updatedAt": "2026-10-04T17:49:52.164Z",
+    "images": [
+      {
+        "id": "cmuu2ehzh0005v0votzxhctvj",
+        "mushroomId": "cmuu2daco000nv018y8r2lxtl",
+        "url": "/photos/ezhovik.jpg",
+        "alt": "Ежовик жёлтый (Hydnum repandum). no rights reserved"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2dacp000ov0185ow4irix",
+    "slug": "voronochnik",
+    "nameRu": "Вороночник рожковидный",
+    "nameLatin": "Craterellus cornucopioides",
+    "description": "Вороночник рожковидный — учебная карточка вида Craterellus cornucopioides. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Тёмно-серая или почти чёрная глубокая воронка.",
+    "stemDescription": "Полая, плавно переходит в воронку.",
+    "hymenophoreDescription": "Серая внешняя поверхность без настоящих пластинок.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Лиственный лес под буками",
+      "Дубовые леса"
+    ],
+    "associatedTrees": [
+      "Бук",
+      "Дуб"
+    ],
+    "seasonMonths": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/voronochnik-commons.jpg",
+    "model3dUrl": null,
+    "modelColor": "#57514b",
+    "modelShape": "chanterelle",
+    "sourceUrl": "https://www.first-nature.com/fungi/craterellus-cornucopioides.php",
+    "popularity": 76,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:57:24.650Z",
+    "updatedAt": "2026-10-04T17:49:52.165Z",
+    "images": [
+      {
+        "id": "cmuu43izd000bv0w0dzbzxhe9",
+        "mushroomId": "cmuu2dacp000ov0185ow4irix",
+        "url": "/photos/voronochnik-commons.jpg",
+        "alt": "Вороночник рожковидный (Craterellus cornucopioides). Kristian Peters"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2dacr000pv018n86ju44u",
+    "slug": "openok-letniy",
+    "nameRu": "Опёнок летний",
+    "nameLatin": "Kuehneromyces mutabilis",
+    "description": "Опёнок летний — учебная карточка вида Kuehneromyces mutabilis. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Медово-коричневая, изменяет окраску при высыхании.",
+    "stemDescription": "С кольцом, ниже него мелкие чешуйки.",
+    "hymenophoreDescription": "Пластинки со временем становятся коричневыми.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Пни лиственных деревьев",
+      "Поваленные стволы и брёвна, особенно берёзовые"
+    ],
+    "associatedTrees": [
+      "Берёза"
+    ],
+    "seasonMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/openok-letniy.jpg",
+    "model3dUrl": null,
+    "modelColor": "#ba873d",
+    "modelShape": "agaric",
+    "sourceUrl": "https://www.first-nature.com/fungi/kuehneromyces-mutabilis.php",
+    "popularity": 75,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:57:24.651Z",
+    "updatedAt": "2026-10-04T17:49:52.167Z",
+    "images": [
+      {
+        "id": "cmuu2frtc000rv0vokuzqhy9d",
+        "mushroomId": "cmuu2dacr000pv018n86ju44u",
+        "url": "/photos/openok-letniy.jpg",
+        "alt": "Опёнок летний (Kuehneromyces mutabilis). (c) Alina Martin, some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": [
+      {
+        "id": "cmuu2zjmv0014v0b0j77fi53m",
+        "mushroomId": "cmuu2dacr000pv018n86ju44u",
+        "similarId": "cmuu2dacd000gv018jdyns3fr",
+        "differences": "Летний опёнок и смертельно ядовитая галерина очень похожи и растут на древесине. Макропризнаков может быть недостаточно; необходимо экспертное, иногда микроскопическое определение.",
+        "risk": "Высокий: подтверждайте определение с экспертом",
+        "similar": {
+          "id": "cmuu2dacd000gv018jdyns3fr",
+          "slug": "galerina",
+          "nameRu": "Галерина окаймлённая",
+          "nameLatin": "Galerina marginata",
+          "description": "Галерина окаймлённая — учебная карточка вида Galerina marginata. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+          "edibility": "DEADLY",
+          "toxicityLevel": "Токсичен",
+          "collectionStatus": "FORBIDDEN",
+          "protectionStatus": "Требуется проверка по региону",
+          "difficulty": 2,
+          "capDescription": "Небольшая, медово-коричневая; окраска зависит от влажности.",
+          "stemDescription": "Тонкая, с продольными волокнами ниже хрупкого кольца.",
+          "hymenophoreDescription": "Пластинки с возрастом становятся ржаво-коричневыми.",
+          "fleshDescription": "Требует проверки",
+          "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+          "sizeDescription": "Требует проверки",
+          "damageReaction": "Требует проверки",
+          "habitat": [
+            "Гниющие пни",
+            "Мёртвые стволы и ветви хвойных, иногда лиственных деревьев"
+          ],
+          "associatedTrees": [],
+          "seasonMonths": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "warning": "Смертельно ядовит. Не собирать и не употреблять.",
+          "coverImage": "/photos/galerina.jpg",
+          "model3dUrl": null,
+          "modelColor": "#b88342",
+          "modelShape": "agaric",
+          "sourceUrl": "https://www.first-nature.com/fungi/galerina-marginata.php",
+          "popularity": 84,
+          "isPublished": true,
+          "createdAt": "2026-10-04T16:57:24.637Z",
+          "updatedAt": "2026-10-04T17:49:52.150Z"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cmuu2dacs000qv0187igdlbi1",
+    "slug": "openok-zimniy",
+    "nameRu": "Опёнок зимний",
+    "nameLatin": "Flammulina velutipes",
+    "description": "Опёнок зимний — учебная карточка вида Flammulina velutipes. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Оранжево-коричневая, темнее в центре, слизистая во влажную погоду.",
+    "stemDescription": "Бархатистая, тёмно-коричневая у основания; без кольца.",
+    "hymenophoreDescription": "Светлые широкие пластинки, позднее желтоватые.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Пни и мёртвые стволы лиственных деревьев",
+      "Иногда ослабленные живые деревья"
+    ],
+    "associatedTrees": [
+      "Бук"
+    ],
+    "seasonMonths": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/openok-zimniy.jpg",
+    "model3dUrl": null,
+    "modelColor": "#d69839",
+    "modelShape": "agaric",
+    "sourceUrl": "https://www.first-nature.com/fungi/flammulina-velutipes.php",
+    "popularity": 74,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:57:24.653Z",
+    "updatedAt": "2026-10-04T17:49:52.169Z",
+    "images": [
+      {
+        "id": "cmuu2ftqt000tv0voholprgi6",
+        "mushroomId": "cmuu2dacs000qv0187igdlbi1",
+        "url": "/photos/openok-zimniy.jpg",
+        "alt": "Опёнок зимний (Flammulina velutipes). no rights reserved"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2dacu000rv018dszcli62",
+    "slug": "shampinion-zheltokozhiy",
+    "nameRu": "Шампиньон желтокожий",
+    "nameLatin": "Agaricus xanthodermus",
+    "description": "Шампиньон желтокожий — учебная карточка вида Agaricus xanthodermus. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "POISONOUS",
+    "toxicityLevel": "Токсичен",
+    "collectionStatus": "FORBIDDEN",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Белая, затем сероватая; повреждённые участки быстро желтеют.",
+    "stemDescription": "Белая, с кольцом; основание желтеет на срезе.",
+    "hymenophoreDescription": "Свободные пластинки, с возрастом розовеют и становятся серо-коричневыми.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Парки и сады",
+      "Края живых изгородей и нарушенная почва"
+    ],
+    "associatedTrees": [],
+    "seasonMonths": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "warning": "Ядовит. Не собирать и не употреблять.",
+    "coverImage": "/photos/shampinion-zheltokozhiy-commons.jpg",
+    "model3dUrl": null,
+    "modelColor": "#e7e3d4",
+    "modelShape": "agaric",
+    "sourceUrl": "https://www.first-nature.com/fungi/agaricus-xanthodermus.php",
+    "popularity": 73,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:57:24.654Z",
+    "updatedAt": "2026-10-04T17:49:52.171Z",
+    "images": [
+      {
+        "id": "cmuu43iz70009v0w0uwq65e1b",
+        "mushroomId": "cmuu2dacu000rv018dszcli62",
+        "url": "/photos/shampinion-zheltokozhiy-commons.jpg",
+        "alt": "Шампиньон желтокожий (Agaricus xanthodermus). Jose Angel Urquia Goitia"
+      }
+    ],
+    "regions": [],
+    "lookalikes": [
+      {
+        "id": "cmuu2zjn3001av0b0trmeet86",
+        "mushroomId": "cmuu2dacu000rv018dszcli62",
+        "similarId": "cmuu0xf2o0004v0l8f3leqd9x",
+        "differences": "У желтокожего шампиньона основание ножки быстро желтеет при повреждении. Проверяйте совокупность признаков; не пробуйте на вкус.",
+        "risk": "Высокий: подтверждайте определение с экспертом",
+        "similar": {
+          "id": "cmuu0xf2o0004v0l8f3leqd9x",
+          "slug": "shampinion",
+          "nameRu": "Шампиньон полевой",
+          "nameLatin": "Agaricus arvensis",
+          "description": "Шампиньон полевой — учебная карточка вида Agaricus arvensis. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+          "edibility": "EDIBLE",
+          "toxicityLevel": "Требует проверки",
+          "collectionStatus": "REGIONAL",
+          "protectionStatus": "Требуется проверка по региону",
+          "difficulty": 2,
+          "capDescription": "Белая или кремовая шляпка.",
+          "stemDescription": "С кольцом; проверяйте целое основание ножки.",
+          "hymenophoreDescription": "Пластинки с возрастом темнеют до коричневых.",
+          "fleshDescription": "Требует проверки",
+          "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+          "sizeDescription": "Требует проверки",
+          "damageReaction": "Требует проверки",
+          "habitat": [
+            "Пастбища, луга и травянистые поляны",
+            "Иногда парки"
+          ],
+          "associatedTrees": [],
+          "seasonMonths": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+          "coverImage": "/photos/shampinion.jpg",
+          "model3dUrl": null,
+          "modelColor": "#ded4bc",
+          "modelShape": "agaric",
+          "sourceUrl": "https://www.first-nature.com/fungi/agaricus-arvensis.php",
+          "popularity": 96,
+          "isPublished": true,
+          "createdAt": "2026-10-04T16:17:04.657Z",
+          "updatedAt": "2026-10-04T17:49:52.127Z"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cmuu2dacv000sv0184aiqdxul",
+    "slug": "syroezhka-zhguchaya",
+    "nameRu": "Сыроежка жгучеедкая",
+    "nameLatin": "Russula emetica",
+    "description": "Сыроежка жгучеедкая — учебная карточка вида Russula emetica. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "POISONOUS",
+    "toxicityLevel": "Токсичен",
+    "collectionStatus": "FORBIDDEN",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Красная, гладкая; во влажную погоду может выцветать.",
+    "stemDescription": "Белая, цилиндрическая, ломкая.",
+    "hymenophoreDescription": "Белые или светло-кремовые пластинки.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Хвойный лес",
+      "Влажные мшистые участки под соснами и елями"
+    ],
+    "associatedTrees": [
+      "Сосна",
+      "Ель"
+    ],
+    "seasonMonths": [
+      8,
+      9,
+      10
+    ],
+    "warning": "Ядовит. Не собирать и не употреблять.",
+    "coverImage": "/photos/syroezhka-zhguchaya.jpg",
+    "model3dUrl": null,
+    "modelColor": "#d6413e",
+    "modelShape": "agaric",
+    "sourceUrl": "https://www.first-nature.com/fungi/russula-emetica.php",
+    "popularity": 72,
+    "isPublished": true,
+    "createdAt": "2026-10-04T16:57:24.655Z",
+    "updatedAt": "2026-10-04T17:49:52.173Z",
+    "images": [
+      {
+        "id": "cmuu2ge4h0019v0vo5jptozwa",
+        "mushroomId": "cmuu2dacv000sv0184aiqdxul",
+        "url": "/photos/syroezhka-zhguchaya.jpg",
+        "alt": "Сыроежка жгучеедкая (Russula emetica). (c) Scott Shanks, some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2ikku000tv0zw02fvudgw",
+    "slug": "smorchok",
+    "nameRu": "Сморчок настоящий",
+    "nameLatin": "Morchella esculenta",
+    "description": "Сморчок настоящий — учебная карточка вида Morchella esculenta. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "CONDITIONAL",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Охристая или коричневая, с ячейками, разделёнными рёбрами; полая.",
+    "stemDescription": "Белая или кремовая, полая.",
+    "hymenophoreDescription": "Спороносная поверхность выстилает ячейки шляпки; пластинок нет.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Известковые почвы под лиственными деревьями",
+      "Иногда влажные дюны с карликовыми ивами"
+    ],
+    "associatedTrees": [
+      "Ива"
+    ],
+    "seasonMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "warning": "В сыром виде или при неправильной обработке может вызвать отравление. Эта карточка не содержит инструкции приготовления и не подтверждает безопасность найденного гриба.",
+    "coverImage": "/photos/smorchok.jpg",
+    "model3dUrl": null,
+    "modelColor": "#af9669",
+    "modelShape": "morel",
+    "sourceUrl": "https://www.first-nature.com/fungi/morchella-esculenta.php",
+    "popularity": 71,
+    "isPublished": true,
+    "createdAt": "2026-10-04T17:01:31.183Z",
+    "updatedAt": "2026-10-04T17:49:52.175Z",
+    "images": [
+      {
+        "id": "cmuu2scis0007v0es3osscvde",
+        "mushroomId": "cmuu2ikku000tv0zw02fvudgw",
+        "url": "/photos/smorchok.jpg",
+        "alt": "Сморчок настоящий (Morchella esculenta). (c) Björn Sothmann, some rights reserved (CC BY-SA)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": [
+      {
+        "id": "cmuu2zjn7001cv0b09cjhe5vz",
+        "mushroomId": "cmuu2ikku000tv0zw02fvudgw",
+        "similarId": "cmuu2dacg000iv0186y1tq5ar",
+        "differences": "У сморчка шляпка с ячейками, у строчка извилистые складки. Строчок опасен даже после обработки; не используйте один признак как основание для употребления.",
+        "risk": "Высокий: подтверждайте определение с экспертом",
+        "similar": {
+          "id": "cmuu2dacg000iv0186y1tq5ar",
+          "slug": "strochok",
+          "nameRu": "Строчок обыкновенный",
+          "nameLatin": "Gyromitra esculenta",
+          "description": "Строчок обыкновенный — учебная карточка вида Gyromitra esculenta. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+          "edibility": "DEADLY",
+          "toxicityLevel": "Токсичен",
+          "collectionStatus": "FORBIDDEN",
+          "protectionStatus": "Требуется проверка по региону",
+          "difficulty": 2,
+          "capDescription": "Коричневая, с глубокими извилистыми складками.",
+          "stemDescription": "Короткая светлая ножка неправильной формы.",
+          "hymenophoreDescription": "Спороносная поверхность находится на складках шляпки; пластинок нет.",
+          "fleshDescription": "Требует проверки",
+          "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+          "sizeDescription": "Требует проверки",
+          "damageReaction": "Требует проверки",
+          "habitat": [
+            "Песчаная почва под соснами",
+            "Сосновый лес"
+          ],
+          "associatedTrees": [
+            "Сосна"
+          ],
+          "seasonMonths": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "warning": "Смертельно ядовит. Не собирать и не употреблять.",
+          "coverImage": "/photos/strochok.jpg",
+          "model3dUrl": null,
+          "modelColor": "#6f4936",
+          "modelShape": "falsemorel",
+          "sourceUrl": "https://www.first-nature.com/fungi/gyromitra-esculenta.php",
+          "popularity": 82,
+          "isPublished": true,
+          "createdAt": "2026-10-04T16:57:24.640Z",
+          "updatedAt": "2026-10-04T17:49:52.154Z"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cmuu2ikkw000uv0zwp7wzcqay",
+    "slug": "shampinion-lugovoy",
+    "nameRu": "Шампиньон обыкновенный",
+    "nameLatin": "Agaricus campestris",
+    "description": "Шампиньон обыкновенный — учебная карточка вида Agaricus campestris. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Кремово-белая, иногда с небольшими чешуйками.",
+    "stemDescription": "Белая, с тонким недолговечным кольцом.",
+    "hymenophoreDescription": "Свободные пластинки: розовые у молодых, тёмно-коричневые у зрелых.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Пастбища и луга",
+      "Трава в парках и на спортивных полях"
+    ],
+    "associatedTrees": [],
+    "seasonMonths": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/shampinion-lugovoy.jpg",
+    "model3dUrl": null,
+    "modelColor": "#e4dcd0",
+    "modelShape": "agaric",
+    "sourceUrl": "https://www.first-nature.com/fungi/agaricus-campestris.php",
+    "popularity": 70,
+    "isPublished": true,
+    "createdAt": "2026-10-04T17:01:31.184Z",
+    "updatedAt": "2026-10-04T17:49:52.176Z",
+    "images": [
+      {
+        "id": "cmuu2s8g70005v0es7ppuqf2o",
+        "mushroomId": "cmuu2ikkw000uv0zwp7wzcqay",
+        "url": "/photos/shampinion-lugovoy.jpg",
+        "alt": "Шампиньон обыкновенный (Agaricus campestris). no rights reserved"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2ikkx000vv0zw8zm51rf1",
+    "slug": "maslenok-zernistyy",
+    "nameRu": "Маслёнок зернистый",
+    "nameLatin": "Suillus granulatus",
+    "description": "Маслёнок зернистый — учебная карточка вида Suillus granulatus. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Коричнево-оранжевая, липкая, выпуклая.",
+    "stemDescription": "Светло-жёлтая, с зернистыми точками у верхушки; кольца нет.",
+    "hymenophoreDescription": "Мелкие жёлтые поры; у молодых экземпляров могут выделяться капли.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Под соснами",
+      "Хвойный лес"
+    ],
+    "associatedTrees": [
+      "Сосна"
+    ],
+    "seasonMonths": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/maslenok-zernistyy.jpg",
+    "model3dUrl": null,
+    "modelColor": "#bc854e",
+    "modelShape": "bolete",
+    "sourceUrl": "https://www.first-nature.com/fungi/suillus-granulatus.php",
+    "popularity": 69,
+    "isPublished": true,
+    "createdAt": "2026-10-04T17:01:31.186Z",
+    "updatedAt": "2026-10-04T17:49:52.178Z",
+    "images": [
+      {
+        "id": "cmuu2rm3s0001v0esv8g9mro7",
+        "mushroomId": "cmuu2ikkx000vv0zw8zm51rf1",
+        "url": "/photos/maslenok-zernistyy.jpg",
+        "alt": "Маслёнок зернистый (Suillus granulatus). (c) relew, some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2ikkz000wv0zwj65tef7g",
+    "slug": "syroezhka-sinezheltaya",
+    "nameRu": "Сыроежка сине-жёлтая",
+    "nameLatin": "Russula cyanoxantha",
+    "description": "Сыроежка сине-жёлтая — учебная карточка вида Russula cyanoxantha. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Окраска изменчива: фиолетовая, сероватая, коричневая или зеленоватая.",
+    "stemDescription": "Белая, иногда с фиолетовым оттенком; без кольца.",
+    "hymenophoreDescription": "Белые, сравнительно гибкие пластинки.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Лиственные леса с дубом и буком",
+      "Иногда хвойные леса"
+    ],
+    "associatedTrees": [
+      "Дуб",
+      "Бук"
+    ],
+    "seasonMonths": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/syroezhka-sinezheltaya.jpg",
+    "model3dUrl": null,
+    "modelColor": "#897597",
+    "modelShape": "agaric",
+    "sourceUrl": "https://www.first-nature.com/fungi/russula-cyanoxantha.php",
+    "popularity": 68,
+    "isPublished": true,
+    "createdAt": "2026-10-04T17:01:31.187Z",
+    "updatedAt": "2026-10-04T17:49:52.181Z",
+    "images": [
+      {
+        "id": "cmuu2y2z90005v0j8h23vjel3",
+        "mushroomId": "cmuu2ikkz000wv0zwj65tef7g",
+        "url": "/photos/syroezhka-sinezheltaya.jpg",
+        "alt": "Сыроежка сине-жёлтая (Russula cyanoxantha). (c) considerthelilies, some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2ikl0000xv0zwd05dknoz",
+    "slug": "syroezhka-zelenovataya",
+    "nameRu": "Сыроежка зеленоватая",
+    "nameLatin": "Russula virescens",
+    "description": "Сыроежка зеленоватая — учебная карточка вида Russula virescens. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Зелёная, с характерной сеткой трещин; с возрастом цвет выцветает.",
+    "stemDescription": "Белая или кремовая, без кольца и вольвы.",
+    "hymenophoreDescription": "Кремово-белые пластинки.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Лиственный лес под буками и дубами",
+      "Каштановые леса"
+    ],
+    "associatedTrees": [
+      "Бук",
+      "Дуб",
+      "Каштан"
+    ],
+    "seasonMonths": [
+      8,
+      9,
+      10
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/syroezhka-zelenovataya.jpg",
+    "model3dUrl": null,
+    "modelColor": "#a0ae74",
+    "modelShape": "agaric",
+    "sourceUrl": "https://www.first-nature.com/fungi/russula-virescens.php",
+    "popularity": 67,
+    "isPublished": true,
+    "createdAt": "2026-10-04T17:01:31.188Z",
+    "updatedAt": "2026-10-04T17:49:52.183Z",
+    "images": [
+      {
+        "id": "cmuu2tqto0009v0esaoy8ga07",
+        "mushroomId": "cmuu2ikl0000xv0zwd05dknoz",
+        "url": "/photos/syroezhka-zelenovataya.jpg",
+        "alt": "Сыроежка зеленоватая (Russula virescens). (c) Carminda Santos, some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": [
+      {
+        "id": "cmuu2zjnb001gv0b0f0kzf4lp",
+        "mushroomId": "cmuu2ikl0000xv0zwd05dknoz",
+        "similarId": "cmuu0xf2s0006v0l8z4qmd2w7",
+        "differences": "Зелёная окраска не отличает эти виды надёжно. У поганки есть вольва и обычно кольцо; у сыроежки нет. Основание ножки необходимо видеть полностью.",
+        "risk": "Высокий: подтверждайте определение с экспертом",
+        "similar": {
+          "id": "cmuu0xf2s0006v0l8z4qmd2w7",
+          "slug": "blednaya-poganka",
+          "nameRu": "Бледная поганка",
+          "nameLatin": "Amanita phalloides",
+          "description": "Бледная поганка — учебная карточка вида Amanita phalloides. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+          "edibility": "DEADLY",
+          "toxicityLevel": "Токсичен",
+          "collectionStatus": "FORBIDDEN",
+          "protectionStatus": "Требуется проверка по региону",
+          "difficulty": 3,
+          "capDescription": "Оливковая, желтоватая или почти белая.",
+          "stemDescription": "Белая с кольцом и мешковидной вольвой у основания.",
+          "hymenophoreDescription": "Белые пластинки.",
+          "fleshDescription": "Требует проверки",
+          "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+          "sizeDescription": "Требует проверки",
+          "damageReaction": "Требует проверки",
+          "habitat": [
+            "Лиственные и смешанные леса",
+            "Часто под дубами и буками"
+          ],
+          "associatedTrees": [
+            "Дуб",
+            "Бук"
+          ],
+          "seasonMonths": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "warning": "Смертельно ядовит. Не собирать и не употреблять.",
+          "coverImage": "/photos/blednaya-poganka.jpg",
+          "model3dUrl": null,
+          "modelColor": "#b2b86c",
+          "modelShape": "amanita-smooth",
+          "sourceUrl": "https://www.first-nature.com/fungi/amanita-phalloides.php",
+          "popularity": 94,
+          "isPublished": true,
+          "createdAt": "2026-10-04T16:17:04.661Z",
+          "updatedAt": "2026-10-04T17:49:52.131Z"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cmuu2ikl1000yv0zwinfyvz9q",
+    "slug": "trametes",
+    "nameRu": "Траметес разноцветный",
+    "nameLatin": "Trametes versicolor",
+    "description": "Траметес разноцветный — учебная карточка вида Trametes versicolor. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "INEDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "FORBIDDEN",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Тонкие веерообразные плодовые тела с разноцветными концентрическими полосами.",
+    "stemDescription": "Выраженной ножки нет; прикрепляется боком к древесине.",
+    "hymenophoreDescription": "Светлая нижняя поверхность с мелкими порами.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Мёртвая древесина лиственных деревьев",
+      "Поваленные стволы и сухостой"
+    ],
+    "associatedTrees": [
+      "Бук",
+      "Дуб"
+    ],
+    "seasonMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "warning": "Несъедобный вид. Изучайте в природе, не употребляйте.",
+    "coverImage": "/photos/trametes.jpg",
+    "model3dUrl": null,
+    "modelColor": "#977354",
+    "modelShape": "bracket",
+    "sourceUrl": "https://www.first-nature.com/fungi/trametes-versicolor.php",
+    "popularity": 66,
+    "isPublished": true,
+    "createdAt": "2026-10-04T17:01:31.190Z",
+    "updatedAt": "2026-10-04T17:49:52.184Z",
+    "images": [
+      {
+        "id": "cmuu2ttv4000bv0eseoopv9dv",
+        "mushroomId": "cmuu2ikl1000yv0zwinfyvz9q",
+        "url": "/photos/trametes.jpg",
+        "alt": "Траметес разноцветный (Trametes versicolor). no rights reserved"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2ikl3000zv0zwsgyy32yc",
+    "slug": "trutovik-nastoyashchiy",
+    "nameRu": "Трутовик настоящий",
+    "nameLatin": "Fomes fomentarius",
+    "description": "Трутовик настоящий — учебная карточка вида Fomes fomentarius. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "INEDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "FORBIDDEN",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Твёрдое многолетнее плодовое тело, похожее на копыто.",
+    "stemDescription": "Ножки нет; растёт на стволе дерева.",
+    "hymenophoreDescription": "Нижняя поверхность пористая.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Стволы лиственных деревьев, особенно берёз",
+      "Мёртвые и поваленные стволы"
+    ],
+    "associatedTrees": [
+      "Берёза",
+      "Бук",
+      "Клён"
+    ],
+    "seasonMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "warning": "Несъедобный вид. Изучайте в природе, не употребляйте.",
+    "coverImage": "/photos/trutovik-nastoyashchiy.jpg",
+    "model3dUrl": null,
+    "modelColor": "#99928a",
+    "modelShape": "hoof",
+    "sourceUrl": "https://www.first-nature.com/fungi/fomes-fomentarius.php",
+    "popularity": 65,
+    "isPublished": true,
+    "createdAt": "2026-10-04T17:01:31.191Z",
+    "updatedAt": "2026-10-04T17:49:52.186Z",
+    "images": [
+      {
+        "id": "cmuu2twu9000dv0esbi7p1439",
+        "mushroomId": "cmuu2ikl3000zv0zwsgyy32yc",
+        "url": "/photos/trutovik-nastoyashchiy.jpg",
+        "alt": "Трутовик настоящий (Fomes fomentarius). (c) Полина Полежанкина, some rights reserved (CC BY)"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2ikl40010v0zw9n6kyu5m",
+    "slug": "golovach",
+    "nameRu": "Головач гигантский",
+    "nameLatin": "Calvatia gigantea",
+    "description": "Головач гигантский — учебная карточка вида Calvatia gigantea. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "EDIBLE",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Крупное округлое белое плодовое тело; с возрастом темнеет.",
+    "stemDescription": "Выраженной ножки нет.",
+    "hymenophoreDescription": "Споры образуются внутри плодового тела; пластинок и трубочек нет.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Края полей и лесные опушки",
+      "Богатая питательными веществами почва среди высокой травы"
+    ],
+    "associatedTrees": [],
+    "seasonMonths": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "Не используйте эту карточку как разрешение на сбор или употребление.",
+    "coverImage": "/photos/golovach.jpg",
+    "model3dUrl": null,
+    "modelColor": "#ece8dc",
+    "modelShape": "puffball",
+    "sourceUrl": "https://www.first-nature.com/fungi/calvatia-gigantea.php",
+    "popularity": 64,
+    "isPublished": true,
+    "createdAt": "2026-10-04T17:01:31.193Z",
+    "updatedAt": "2026-10-04T17:49:52.188Z",
+    "images": [
+      {
+        "id": "cmuu2xwwf0001v0j8ymkfn7sc",
+        "mushroomId": "cmuu2ikl40010v0zw9n6kyu5m",
+        "url": "/photos/golovach.jpg",
+        "alt": "Головач гигантский (Calvatia gigantea). no rights reserved"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2ikl70011v0zwjgdqqkxg",
+    "slug": "trutovik-sernozheltyy",
+    "nameRu": "Трутовик серно-жёлтый",
+    "nameLatin": "Laetiporus sulphureus",
+    "description": "Трутовик серно-жёлтый — учебная карточка вида Laetiporus sulphureus. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "CONDITIONAL",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "Жёлто-оранжевые мясистые веера с волнистым краем, растущие ярусами.",
+    "stemDescription": "Выраженной ножки нет.",
+    "hymenophoreDescription": "Жёлтая нижняя поверхность с мелкими порами.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Мёртвые и отмирающие стволы лиственных деревьев",
+      "Чаще дуб, каштан и бук"
+    ],
+    "associatedTrees": [
+      "Дуб",
+      "Каштан",
+      "Бук",
+      "Ива"
+    ],
+    "seasonMonths": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "warning": "В сыром виде или при неправильной обработке может вызвать отравление. Эта карточка не содержит инструкции приготовления и не подтверждает безопасность найденного гриба.",
+    "coverImage": "/photos/trutovik-sernozheltyy-commons.jpg",
+    "model3dUrl": null,
+    "modelColor": "#e2ab34",
+    "modelShape": "bracket",
+    "sourceUrl": "https://www.first-nature.com/fungi/laetiporus-sulphureus.php",
+    "popularity": 63,
+    "isPublished": true,
+    "createdAt": "2026-10-04T17:01:31.195Z",
+    "updatedAt": "2026-10-04T17:49:52.190Z",
+    "images": [
+      {
+        "id": "cmuu43iz00007v0w0yu66fkpa",
+        "mushroomId": "cmuu2ikl70011v0zwjgdqqkxg",
+        "url": "/photos/trutovik-sernozheltyy-commons.jpg",
+        "alt": "Трутовик серно-жёлтый (Laetiporus sulphureus). George Chernilevsky"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  },
+  {
+    "id": "cmuu2ikl80012v0zwts4ahfs5",
+    "slug": "ryadovka-fioletovaya",
+    "nameRu": "Рядовка фиолетовая",
+    "nameLatin": "Lepista nuda",
+    "description": "Рядовка фиолетовая — учебная карточка вида Lepista nuda. Сравните шляпку, ножку и нижнюю сторону. Ни один отдельный признак не подтверждает безопасность.",
+    "edibility": "CONDITIONAL",
+    "toxicityLevel": "Требует проверки",
+    "collectionStatus": "REGIONAL",
+    "protectionStatus": "Требуется проверка по региону",
+    "difficulty": 2,
+    "capDescription": "У молодых фиолетовая; позднее становится коричневатой.",
+    "stemDescription": "Плотная, с утолщённым основанием.",
+    "hymenophoreDescription": "Частые сиреневые пластинки, позднее буроватые.",
+    "fleshDescription": "Требует проверки",
+    "smellDescription": "Не используйте запах или вкус для проверки безопасности",
+    "sizeDescription": "Требует проверки",
+    "damageReaction": "Требует проверки",
+    "habitat": [
+      "Листовая подстилка в смешанном лесу",
+      "Иногда компостные кучи и участки под изгородями"
+    ],
+    "associatedTrees": [],
+    "seasonMonths": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "warning": "В сыром виде или при неправильной обработке может вызвать отравление. Эта карточка не содержит инструкции приготовления и не подтверждает безопасность найденного гриба.",
+    "coverImage": "/photos/ryadovka-fioletovaya.jpg",
+    "model3dUrl": null,
+    "modelColor": "#ad8fbc",
+    "modelShape": "agaric",
+    "sourceUrl": "https://www.first-nature.com/fungi/lepista-nuda.php",
+    "popularity": 62,
+    "isPublished": true,
+    "createdAt": "2026-10-04T17:01:31.196Z",
+    "updatedAt": "2026-10-04T17:49:52.192Z",
+    "images": [
+      {
+        "id": "cmuu2y0jl0003v0j87sjuae1z",
+        "mushroomId": "cmuu2ikl80012v0zwts4ahfs5",
+        "url": "/photos/ryadovka-fioletovaya.jpg",
+        "alt": "Рядовка фиолетовая (Lepista nuda). no rights reserved"
+      }
+    ],
+    "regions": [],
+    "lookalikes": []
+  }
+]

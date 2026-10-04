@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "base": "http://127.0.0.1:3000/mycelium",
+  "checks": [
+    "Static catalogue, URL filters and search",
+    "Photo, WebGL, READY and catalogue return; guest persistence",
+    "Local registration with 4-character password; guest import",
+    "Logout, isolated second account and case-insensitive login",
+    "Mobile model and local account form, no horizontal overflow"
+  ],
+  "errors": [],
+  "apiRequests": 0,
+  "failedResources": []
+}

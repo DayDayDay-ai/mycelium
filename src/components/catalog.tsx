@@ -3,7 +3,9 @@ import { useEffect, useMemo, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
-import type { Mushroom } from "@prisma/client";
+import { asset } from "@/lib/assets";
+import { filterCatalog } from "@/lib/static-catalog";
+import type { Mushroom } from "@/lib/mushroom-types";
 import {
   ArrowUpRight,
   Search,
@@ -23,7 +25,7 @@ export function MushroomCard({ item }: { item: Mushroom }) {
     <Link className="mushroom-card" href={`/mushrooms/${item.slug}`}>
       <div className="card-image">
         <Image
-          src={item.coverImage}
+          src={asset(item.coverImage)}
           alt={item.nameRu}
           fill
           sizes="(max-width:600px) 100vw,(max-width:1000px) 50vw,33vw"
@@ -80,24 +82,7 @@ export function Catalog() {
   useEffect(() => {
     setQuery(params.get("q") || "");
   }, [serialized, params]);
-  useEffect(() => {
-    const ctrl = new AbortController();
-    setLoading(true);
-    fetch(`/api/mushrooms?${serialized}`, { signal: ctrl.signal })
-      .then(async (r) => {
-        const data = await r.json();
-        if (!r.ok) throw Error(data.error);
-        setItems(data);
-        setError("");
-      })
-      .catch((e) => {
-        if (e.name !== "AbortError") setError(e.message);
-      })
-      .finally(() => {
-        if (!ctrl.signal.aborted) setLoading(false);
-      });
-    return () => ctrl.abort();
-  }, [serialized, user]);
+  useEffect(() => {setItems(filterCatalog(new URLSearchParams(serialized)));setError('');setLoading(false);},[serialized]);
   const update = (key: string, value: string) => {
     const p = new URLSearchParams(serialized);
     if (value) p.set(key, value);
@@ -117,7 +102,7 @@ export function Catalog() {
   const visible = useMemo(() => {
     let data = [...items];
     const status = params.get("progress");
-    if (!user && status)
+    if (status)
       data = data.filter(
         (x) =>
           (progress[x.id]?.status === "STUDIED") === (status === "studied"),
