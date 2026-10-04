@@ -1,0 +1,34 @@
+{
+  "checkedAt": "2026-10-04T18:13:34.393Z",
+  "results": [
+    {
+      "name": "Landing and real WebGL canvas",
+      "status": "PASS"
+    },
+    {
+      "name": "Start → DB catalogue → combined URL filters → search → sorting",
+      "status": "PASS"
+    },
+    {
+      "name": "Detail → rotate 3D → compare → READY → studied → guest persistence",
+      "status": "PASS"
+    },
+    {
+      "name": "Register → explicit local import → DB sync → logout → login",
+      "status": "PASS"
+    },
+    {
+      "name": "API authorization, input validation and CSRF",
+      "status": "PASS"
+    },
+    {
+      "name": "Admin create → edit → photo + GLB upload → render → hide; DB verified",
+      "status": "PASS"
+    },
+    {
+      "name": "Mobile: landing, filters, 3D, progress; no horizontal overflow",
+      "status": "PASS"
+    }
+  ],
+  "browserErrors": []
+}

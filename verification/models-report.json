@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "species": [
+    "belyy-grib",
+    "podberezovik",
+    "lisichka",
+    "shampinion",
+    "veshenka",
+    "maslenok",
+    "smorchok",
+    "muhomor"
+  ],
+  "errors": [],
+  "counts": {
+    "accounts": 0,
+    "sessions": 0,
+    "progress": 0,
+    "mushrooms": 39
+  }
+}

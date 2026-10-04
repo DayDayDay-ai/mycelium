@@ -1,0 +1,119 @@
+generator client {
+  provider = "prisma-client-js"
+}
+datasource db {
+  provider = "postgresql"
+  url = env("DATABASE_URL")
+}
+enum Edibility {
+  EDIBLE
+  CONDITIONAL
+  INEDIBLE
+  POISONOUS
+  DEADLY
+}
+enum CollectionStatus {
+  ALLOWED
+  FORBIDDEN
+  REGIONAL
+}
+enum ProgressStatus {
+  NOT_STARTED
+  IN_PROGRESS
+  STUDIED
+}
+enum Role {
+  USER
+  ADMIN
+}
+model Mushroom {
+  id String @id @default(cuid())
+  slug String @unique
+  nameRu String
+  nameLatin String
+  description String
+  edibility Edibility
+  toxicityLevel String @default("Требует проверки")
+  collectionStatus CollectionStatus @default(REGIONAL)
+  protectionStatus String @default("Требуется проверка по региону")
+  difficulty Int @default(2)
+  capDescription String
+  stemDescription String
+  hymenophoreDescription String
+  fleshDescription String @default("Требует проверки")
+  smellDescription String @default("Не используйте запах или вкус для проверки безопасности")
+  sizeDescription String @default("Требует проверки")
+  damageReaction String @default("Требует проверки")
+  habitat String[]
+  associatedTrees String[]
+  seasonMonths Int[]
+  warning String
+  coverImage String
+  model3dUrl String?
+  modelColor String @default("#a67c52")
+  modelShape String @default("bolete")
+  sourceUrl String
+  popularity Int @default(0)
+  isPublished Boolean @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  images MushroomImage[]
+  regions MushroomRegion[]
+  lookalikes MushroomLookalike[] @relation("Original")
+  lookalikeOf MushroomLookalike[] @relation("Similar")
+  progress UserMushroomProgress[]
+  @@index([isPublished, edibility, collectionStatus])
+}
+model MushroomImage {
+  id String @id @default(cuid())
+  mushroomId String
+  mushroom Mushroom @relation(fields:[mushroomId],references:[id],onDelete:Cascade)
+  url String
+  alt String
+}
+model MushroomRegion {
+  id String @id @default(cuid())
+  mushroomId String
+  mushroom Mushroom @relation(fields:[mushroomId],references:[id],onDelete:Cascade)
+  name String
+  note String
+}
+model MushroomLookalike {
+  id String @id @default(cuid())
+  mushroomId String
+  similarId String
+  mushroom Mushroom @relation("Original",fields:[mushroomId],references:[id],onDelete:Cascade)
+  similar Mushroom @relation("Similar",fields:[similarId],references:[id],onDelete:Cascade)
+  differences String
+  risk String
+  @@unique([mushroomId,similarId])
+}
+model User {
+  id String @id @default(cuid())
+  email String? @unique
+  name String
+  username String @unique
+  passwordHash String
+  role Role @default(USER)
+  createdAt DateTime @default(now())
+  progress UserMushroomProgress[]
+  sessions Session[]
+}
+model Session {
+  id String @id
+  userId String
+  user User @relation(fields:[userId],references:[id],onDelete:Cascade)
+  expiresAt DateTime
+  @@index([expiresAt])
+}
+model UserMushroomProgress {
+  id String @id @default(cuid())
+  userId String
+  mushroomId String
+  user User @relation(fields:[userId],references:[id],onDelete:Cascade)
+  mushroom Mushroom @relation(fields:[mushroomId],references:[id],onDelete:Cascade)
+  status ProgressStatus @default(NOT_STARTED)
+  startedAt DateTime @default(now())
+  studiedAt DateTime?
+  @@unique([userId,mushroomId])
+}
